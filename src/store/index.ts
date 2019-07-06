@@ -1,7 +1,7 @@
-import { createStore, combineReducers, applyMiddleware } from "redux";
-import { composeWithDevTools } from "redux-devtools-extension";
+import { createStore, combineReducers, applyMiddleware } from 'redux';
+import { composeWithDevTools } from 'redux-devtools-extension';
 
-import { charactersReducer } from "./reducers";
+import { charactersReducer } from './reducers';
 
 const rootReducer = combineReducers({
     characters: charactersReducer,
@@ -16,6 +16,13 @@ export default function configureStore() {
         rootReducer,
         composeWithDevTools(middleWareEnhancer)
     );
+
+    store.subscribe(() => {
+        window.localStorage.setItem(
+            'characters',
+            JSON.stringify(store.getState().characters.characters)
+        );
+    });
 
     return store;
 }

@@ -1,9 +1,12 @@
-import { CharactersState, CharactersActionTypes, LOAD, UPGRADE_COMPLETE } from './types';
+import { CharactersState, CharactersActionTypes, LOAD, UPGRADE_COMPLETE, RESET } from './types';
 import initialCharacters from '../data/characters';
 import { completeActiveUpgrade } from '../models/character';
+import { Character } from '../types/types';
+
+const loadedCharacters: Array<Character> = JSON.parse(window.localStorage.getItem('characters') || 'false');
 
 const initialState: CharactersState = {
-    characters: initialCharacters
+    characters: loadedCharacters || initialCharacters
 };
 
 export function charactersReducer(
@@ -15,6 +18,12 @@ export function charactersReducer(
             return {
                 ...state,
                 characters: action.payload
+            };
+        }
+        case RESET: {
+            return {
+                ...state,
+                characters: initialCharacters
             };
         }
         case UPGRADE_COMPLETE: {

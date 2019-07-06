@@ -7,11 +7,16 @@ export interface CharactersState {
 
 // Actions
 export const LOAD = 'LOAD';
+export const RESET = 'RESET';
 export const UPGRADE_COMPLETE = 'UPGRADE_COMPLETE';
 
 interface LoadAction {
     type: typeof LOAD;
     payload: Array<TLR.Character>;
+}
+
+interface ResetAction {
+    type: typeof RESET;
 }
 
 interface UpgradeCompleteAction {
@@ -24,4 +29,5 @@ interface UpgradeCompleteAction {
 
 export type CharactersActionTypes =
     LoadAction |
+    ResetAction |
     UpgradeCompleteAction;

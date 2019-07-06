@@ -6,7 +6,7 @@ import { MaterialRequirement, Character } from '../types/types';
 import { getActiveUpgrades } from '../models/character';
 import { combineMaterialRequirementLists } from '../models/material-requirement';
 import { AppState } from '../store';
-import { completeUpgrade } from '../store/actions';
+import { completeUpgrade, reset } from '../store/actions';
 
 const MaterialRequirementDisplay: React.FC<{ material: MaterialRequirement }> = ({
   material
@@ -34,12 +34,14 @@ const MaterialRequirementListDisplay: React.FC<{ materials: Array<MaterialRequir
 
 interface AppProps {
   characters: Array<Character>,
-  completeUpgrade: typeof completeUpgrade
+  completeUpgrade: typeof completeUpgrade,
+  reset: typeof reset
 }
 
 const App: React.FC<AppProps> = ({
   characters,
-  completeUpgrade
+  completeUpgrade,
+  reset
 }) => {
   return (
     <div>
@@ -86,6 +88,9 @@ const App: React.FC<AppProps> = ({
           </li>
         ))}
       </ul>
+      <div>
+        <button onClick={reset}>reset</button>
+      </div>
     </div>
   );
 };
@@ -96,5 +101,5 @@ const mapStateToProps = (state: AppState) => ({
 
 export default connect(
   mapStateToProps,
-  { completeUpgrade }
+  { completeUpgrade, reset }
 )(App);

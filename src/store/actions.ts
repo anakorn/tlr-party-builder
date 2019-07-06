@@ -1,10 +1,16 @@
-import { CharactersActionTypes, LOAD, UPGRADE_COMPLETE } from './types';
+import { CharactersActionTypes, LOAD, UPGRADE_COMPLETE, RESET } from './types';
 import * as TLR from '../types/types';
 
 export function load(characters: Array<TLR.Character>): CharactersActionTypes {
     return {
         type: LOAD,
         payload: characters
+    };
+}
+
+export function reset(): CharactersActionTypes {
+    return {
+        type: RESET
     };
 }
 
