@@ -1,10 +1,12 @@
 import React from 'react';
+import { connect } from 'react-redux';
 import './App.css';
 import { findActiveUpgrade } from '../models/upgrade';
-import characters from '../data/characters';
-import { MaterialRequirement } from '../types/types';
+import { MaterialRequirement, Character } from '../types/types';
 import { getActiveUpgrades } from '../models/character';
 import { combineMaterialRequirementLists } from '../models/material-requirement';
+import { AppState } from '../store';
+import { completeUpgrade } from '../store/actions';
 
 const MaterialRequirementDisplay: React.FC<{ material: MaterialRequirement }> = ({
   material
@@ -30,7 +32,15 @@ const MaterialRequirementListDisplay: React.FC<{ materials: Array<MaterialRequir
   )
 };
 
-const App: React.FC = () => {
+interface AppProps {
+  characters: Array<Character>,
+  completeUpgrade: typeof completeUpgrade
+}
+
+const App: React.FC<AppProps> = ({
+  characters,
+  completeUpgrade
+}) => {
   return (
     <div>
       <h1>All Materials Needed</h1>
@@ -49,7 +59,7 @@ const App: React.FC = () => {
             <p>
               Active Upgrades:
             <ul>
-                {character.upgradeGroups.map(upgrades => {
+                {character.upgradeGroups.map((upgrades, i) => {
                   const activeUpgrade = findActiveUpgrade(upgrades);
                   return activeUpgrade
                     ? (
@@ -58,6 +68,7 @@ const App: React.FC = () => {
                           {activeUpgrade.equipmentBaseId}
                           {` -> `}
                           <strong>{activeUpgrade.equipmentTargetId}</strong>
+                          <button onClick={() => completeUpgrade(character.id, i)}>complete</button>
                         </p>
                         <ul>
                           {activeUpgrade.materialRequirements.map(material => (
@@ -79,4 +90,11 @@ const App: React.FC = () => {
   );
 };
 
-export default App;
+const mapStateToProps = (state: AppState) => ({
+  characters: state.characters.characters
+});
+
+export default connect(
+  mapStateToProps,
+  { completeUpgrade }
+)(App);

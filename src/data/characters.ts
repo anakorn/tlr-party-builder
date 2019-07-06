@@ -1,4 +1,4 @@
-import * as TLR from '../types/types.d';
+import * as TLR from '../types/types';
 
 const characters: Array<TLR.Character> = [
   {
