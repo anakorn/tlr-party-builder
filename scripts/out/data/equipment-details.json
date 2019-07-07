@@ -1,0 +1,3754 @@
+[
+  {
+    "equipmentId": "aspis-bellatoris",
+    "upgradeTargets": [
+      {
+        "equipmentId": "aspis-praetorius",
+        "materialRequirements": [
+          {
+            "materialId": "silver-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "meteorite",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "old-carapace",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "aspis-nobilatis",
+    "upgradeTargets": [
+      {
+        "equipmentId": "aspis-heroicus",
+        "materialRequirements": [
+          {
+            "materialId": "mystic-skelenyte",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "crab-fluid",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "dragon-scale-base-component",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "soulshield-shield",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "giant-shellfly-scalp",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "inverted-dragon-scale",
+            "quantityNeeded": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "azureblade-virtutis",
+    "upgradeTargets": [
+      {
+        "equipmentId": "nightbloom-mist",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "vile-lizard-mane",
+            "quantityNeeded": 10
+          },
+          {
+            "materialId": "reya-s-note",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "bilqis-artis",
+    "upgradeTargets": [
+      {
+        "equipmentId": "bilqis-virtutis",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 8
+          },
+          {
+            "materialId": "fly-scale-hide",
+            "quantityNeeded": 10
+          },
+          {
+            "materialId": "reya-s-note",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "bilqis-virtutis",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "blackjack",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-blackjack",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "pangu-s-bone",
+            "quantityNeeded": 6
+          }
+        ]
+      },
+      {
+        "equipmentId": "flame-blackjack",
+        "materialRequirements": [
+          {
+            "materialId": "ruby-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "harpylia-s-hide",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "storm-blackjack",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "harpylia-s-hide",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "frost-blackjack",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "harpylia-s-hide",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "caustic-blackjack",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "harpylia-s-hide",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "poison-blackjack",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "harpylia-s-hide",
+            "quantityNeeded": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "bolt-naginata",
+    "upgradeTargets": [
+      {
+        "equipmentId": "fire-naginata",
+        "materialRequirements": [
+          {
+            "materialId": "ruby-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "ice-naginata",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "lytic-naginata",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "venom-naginata",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "excellent-naginata",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "djin-s-coin",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "bristly-dragon-mane",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "champion-s-bludgeon",
+    "upgradeTargets": [
+      {
+        "equipmentId": "warlord-s-bludgeon",
+        "materialRequirements": [
+          {
+            "materialId": "mystic-skelenyte",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "imp-scale-hide",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "inverted-raptor-talon",
+            "quantityNeeded": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "champion-s-grandsword",
+    "upgradeTargets": [
+      {
+        "equipmentId": "warlord-s-grandsword",
+        "materialRequirements": [
+          {
+            "materialId": "mystic-skelenyte",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "colossus-skull",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "tanned-mystic-fiend-hide",
+            "quantityNeeded": 6
+          }
+        ]
+      },
+      {
+        "equipmentId": "deathbringer",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "eternal-bulb",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "archfiend-fluid",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "champion-s-harpoon",
+    "upgradeTargets": [
+      {
+        "equipmentId": "warlord-s-harpoon",
+        "materialRequirements": [
+          {
+            "materialId": "mystic-skelenyte",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "anthrovore-trunk",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "grand-spider-scalp",
+            "quantityNeeded": 8
+          }
+        ]
+      },
+      {
+        "equipmentId": "naginata",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "inverted-terrapest-barb",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "glasya-labolas-larynx",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "champion-s-mace",
+    "upgradeTargets": [
+      {
+        "equipmentId": "warlord-s-mace",
+        "materialRequirements": [
+          {
+            "materialId": "platinum-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "retral-grand-beetle-husk",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "fruit-of-knowledge",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "morningstar",
+        "materialRequirements": [
+          {
+            "materialId": "primordial-alloy",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "tanned-beastman-hide",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "bristly-vánargand-mane",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "champion-s-rod",
+    "upgradeTargets": [
+      {
+        "equipmentId": "warlord-s-rod",
+        "materialRequirements": [
+          {
+            "materialId": "platinum-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "anthrovore-mane",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "bune-fin",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "tambo",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "thick-treant-branch",
+            "quantityNeeded": 3
+          }
+        ]
+      },
+      {
+        "equipmentId": "tambo",
+        "materialRequirements": [
+          {
+            "materialId": "weapon-recipes",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "wand",
+        "materialRequirements": [
+          {
+            "materialId": "primordial-alloy",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "divine-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "poison-deathclaw-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "champion-s-sledgehammer",
+    "upgradeTargets": [
+      {
+        "equipmentId": "warlord-s-sledgehammer",
+        "materialRequirements": [
+          {
+            "materialId": "platinum-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "retral-grand-beetle-husk",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "dragon-scale-base-component",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "onionhead",
+        "materialRequirements": [
+          {
+            "materialId": "crimson-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "echidnamoth-scalp",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "ur-seed",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "blackjack",
+        "materialRequirements": [
+          {
+            "materialId": "primordial-alloy",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "divine-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "godwood-timber",
+            "quantityNeeded": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "combat-buckler",
+    "upgradeTargets": [
+      {
+        "equipmentId": "warrior-s-buckler",
+        "materialRequirements": [
+          {
+            "materialId": "steel-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "faerie-meat",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "imp-fang",
+            "quantityNeeded": 6
+          }
+        ]
+      },
+      {
+        "equipmentId": "warrior-s-buckler",
+        "materialRequirements": [
+          {
+            "materialId": "sharp-giant-crab-claw",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "steel-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "anthrovore-branch",
+            "quantityNeeded": 3
+          }
+        ]
+      },
+      {
+        "equipmentId": "targe",
+        "materialRequirements": [
+          {
+            "materialId": "shadow-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "land-insecta-fluid",
+            "quantityNeeded": 7
+          },
+          {
+            "materialId": "azhdaha-fang",
+            "quantityNeeded": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "combat-harpoon",
+    "upgradeTargets": [
+      {
+        "equipmentId": "warrior-s-harpoon",
+        "materialRequirements": [
+          {
+            "materialId": "vackel-iron",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "thick-mystic-fiend-fur",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "tanned-albic-hide",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "commander-s-claymore",
+    "upgradeTargets": [
+      {
+        "equipmentId": "elite-s-claymore",
+        "materialRequirements": [
+          {
+            "materialId": "platinum-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "polished-scale",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "mystic-fiend-horn",
+            "quantityNeeded": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "commander-s-club",
+    "upgradeTargets": [
+      {
+        "equipmentId": "elite-s-club",
+        "materialRequirements": [
+          {
+            "materialId": "platinum-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-grand-beetle-talon",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "fenris-rawhide",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "phalanx-mace",
+        "materialRequirements": [
+          {
+            "materialId": "weapon-recipes",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "orichalcum",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "wyvern-bone",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "commander-s-cudgel",
+    "upgradeTargets": [
+      {
+        "equipmentId": "elite-s-cudgel",
+        "materialRequirements": [
+          {
+            "materialId": "royotian-steel",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "large-fang",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "leap-frog-fluid",
+            "quantityNeeded": 3
+          }
+        ]
+      },
+      {
+        "equipmentId": "elite-s-cudgel",
+        "materialRequirements": [
+          {
+            "materialId": "irregular-torpedo-scale",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "royotian-steel",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "large-fang",
+            "quantityNeeded": 5
+          }
+        ]
+      },
+      {
+        "equipmentId": "vare",
+        "materialRequirements": [
+          {
+            "materialId": "silver-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "purple-divain-rawhide",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "oarfish-tentacle",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "vare",
+        "materialRequirements": [
+          {
+            "materialId": "weapon-recipes",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "rough-merman-stone",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "war-dragon-talon",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "commander-s-grandsword",
+    "upgradeTargets": [
+      {
+        "equipmentId": "elite-s-grandsword",
+        "materialRequirements": [
+          {
+            "materialId": "royotian-steel",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "superior-cotton",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "land-insecta-talon",
+            "quantityNeeded": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "commander-s-rapier",
+    "upgradeTargets": [
+      {
+        "equipmentId": "elite-s-rapier",
+        "materialRequirements": [
+          {
+            "materialId": "royotian-steel",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "superior-cotton",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "large-fang",
+            "quantityNeeded": 6
+          }
+        ]
+      },
+      {
+        "equipmentId": "tuck",
+        "materialRequirements": [
+          {
+            "materialId": "silver-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "homunculus-horn",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "sharp-flauros-talon",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "tuck",
+        "materialRequirements": [
+          {
+            "materialId": "weapon-recipes",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "rough-ondine-stone",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "raginos-fragment",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "curtana",
+        "materialRequirements": [
+          {
+            "materialId": "imperium",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "brownie-core",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "concealed-oarfish-limb",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "commander-s-rod",
+    "upgradeTargets": [
+      {
+        "equipmentId": "elite-s-rod",
+        "materialRequirements": [
+          {
+            "materialId": "royotian-steel",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "large-fang",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "mystic-fiend-husk",
+            "quantityNeeded": 3
+          }
+        ]
+      },
+      {
+        "equipmentId": "elite-s-rod",
+        "materialRequirements": [
+          {
+            "materialId": "weapon-recipes",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "bristly-king-chimera-limb",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "oberon-core",
+            "quantityNeeded": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "commander-s-striker",
+    "upgradeTargets": [
+      {
+        "equipmentId": "elite-s-striker",
+        "materialRequirements": [
+          {
+            "materialId": "royotian-steel",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "beastman-bone-voodoo-alchemy",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "large-horn",
+            "quantityNeeded": 5
+          }
+        ]
+      },
+      {
+        "equipmentId": "scythe",
+        "materialRequirements": [
+          {
+            "materialId": "silver-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "raptor-carapace",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "anthrovore-moss",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "elite-s-striker",
+        "materialRequirements": [
+          {
+            "materialId": "weapon-recipes",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "angoran-cloth",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "demon-king-eye",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "crimsonblade-virtutis",
+    "upgradeTargets": [
+      {
+        "equipmentId": "nightbloom-royal",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "butterfly-liver",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "reya-s-note",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "daedalus-weapon",
+    "upgradeTargets": [
+      {
+        "equipmentId": "daedalus-artis",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "demon-mane",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "reya-s-note",
+            "quantityNeeded": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "damascene-striker",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "demonblade",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "djin-s-coin",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "bristly-dragon-mane",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "flame-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "ruby-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "amoeba-membrane",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "storm-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "amoeba-membrane",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "frost-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "amoeba-membrane",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "caustic-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "amoeba-membrane",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "poison-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "amoeba-membrane",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "divine-striker",
+    "upgradeTargets": [
+      {
+        "equipmentId": "damascene-striker",
+        "materialRequirements": [
+          {
+            "materialId": "damascus-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "leap-frog-fin",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "thin-oarfish-wing",
+            "quantityNeeded": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "draconile-halberd",
+    "upgradeTargets": [
+      {
+        "equipmentId": "damascene-halberd",
+        "materialRequirements": [
+          {
+            "materialId": "damascus-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "grand-spider-fluid",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "vulture-underbelly-fur",
+            "quantityNeeded": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "draconile-scepter",
+    "upgradeTargets": [
+      {
+        "equipmentId": "damascene-scepter",
+        "materialRequirements": [
+          {
+            "materialId": "damascus-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "demon-mane",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "dvergr-artis",
+    "upgradeTargets": [
+      {
+        "equipmentId": "dvergr-virtutis",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "hydra-beak",
+            "quantityNeeded": 10
+          },
+          {
+            "materialId": "reya-s-note",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "dvergr-virtutis",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "elite-s-claymore",
+    "upgradeTargets": [
+      {
+        "equipmentId": "champion-s-claymore",
+        "materialRequirements": [
+          {
+            "materialId": "mystic-skelenyte",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "sharp-homunculus-horn",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "tanned-mystic-fiend-hide",
+            "quantityNeeded": 6
+          }
+        ]
+      },
+      {
+        "equipmentId": "superlative-zweihänder",
+        "materialRequirements": [
+          {
+            "materialId": "blacksteel-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "phantom-husk",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "glasya-labolas-larynx",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "highbrand",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "tough-brynhildr-husk",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "hydra-fin",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "elite-s-club",
+    "upgradeTargets": [
+      {
+        "equipmentId": "champion-s-club",
+        "materialRequirements": [
+          {
+            "materialId": "mystic-skelenyte",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "thin-oarfish-wing",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "iron-husk",
+            "quantityNeeded": 3
+          }
+        ]
+      },
+      {
+        "equipmentId": "superlative-scythe",
+        "materialRequirements": [
+          {
+            "materialId": "blacksteel-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "giant-shellfly-scalp",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "elite-s-grandsword",
+    "upgradeTargets": [
+      {
+        "equipmentId": "champion-s-grandsword",
+        "materialRequirements": [
+          {
+            "materialId": "platinum-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "polished-scale",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "hydra-bristle",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "troll-s-trickery",
+        "materialRequirements": [
+          {
+            "materialId": "troll-s-cushion",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "gold-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "thin-nymphalidae-wing",
+            "quantityNeeded": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "elite-s-mace",
+    "upgradeTargets": [
+      {
+        "equipmentId": "champion-s-mace",
+        "materialRequirements": [
+          {
+            "materialId": "reprocessed-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "mystic-fiend-meat",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "thick-beast-hide",
+            "quantityNeeded": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "elite-s-rapier",
+    "upgradeTargets": [
+      {
+        "equipmentId": "champion-s-rapier",
+        "materialRequirements": [
+          {
+            "materialId": "platinum-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "polished-scale",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "necrodragon-bone",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "elite-s-rod",
+    "upgradeTargets": [
+      {
+        "equipmentId": "runestaff",
+        "materialRequirements": [
+          {
+            "materialId": "heavy-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "tanned-archfiend-hide",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "royal-platter",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "champion-s-rod",
+        "materialRequirements": [
+          {
+            "materialId": "reprocessed-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "grand-beetle-barb",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "beastman-rawhide",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "elite-s-sledgehammer",
+    "upgradeTargets": [
+      {
+        "equipmentId": "champion-s-sledgehammer",
+        "materialRequirements": [
+          {
+            "materialId": "reprocessed-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "mystic-fiend-meat",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "retral-colossus-shell",
+            "quantityNeeded": 3
+          }
+        ]
+      },
+      {
+        "equipmentId": "champion-s-sledgehammer",
+        "materialRequirements": [
+          {
+            "materialId": "weapon-recipes",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "reprocessed-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "darkfiend-fluid",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "emma-s-longsword-final",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "emma-s-longsword-upgrade",
+    "upgradeTargets": [
+      {
+        "equipmentId": "emma-s-longsword-final",
+        "materialRequirements": [
+          {
+            "materialId": "steel-ore",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "albic-hide",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "colossus-rawhide",
+            "quantityNeeded": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "emma-s-tuck-upgrade",
+    "upgradeTargets": [
+      {
+        "equipmentId": "emma-s-tuck-final",
+        "materialRequirements": [
+          {
+            "materialId": "vackel-iron",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "beastman-rawhide",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "leap-frog-rawhide",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "flame-demonblade",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "djin-s-coin",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "bristly-dragon-mane",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "storm-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "amoeba-membrane",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "frost-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "amoeba-membrane",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "caustic-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "amoeba-membrane",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "poison-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "amoeba-membrane",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "flame-hawkwind",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-colossus-bristle",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "world-tree-timber",
+            "quantityNeeded": 6
+          }
+        ]
+      },
+      {
+        "equipmentId": "storm-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "frost-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "caustic-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "poison-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "frostsword-artis",
+    "upgradeTargets": [
+      {
+        "equipmentId": "frostsword-virtutis",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "world-tree-timber",
+            "quantityNeeded": 18
+          },
+          {
+            "materialId": "reya-s-note",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "frostsword-virtutis",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "furfur-dominus",
+    "upgradeTargets": [
+      {
+        "equipmentId": "oriax-dominus",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "sharp-vulture-beak",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "vile-lizard-mane",
+            "quantityNeeded": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "gaap",
+    "upgradeTargets": [
+      {
+        "equipmentId": "gaap-dominus",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "oculus-tooth",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "bristly-dragon-mane",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "gaap-dominus",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "ghorian-axe",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "glaive",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-glaive",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "ancient-carapace",
+            "quantityNeeded": 3
+          }
+        ]
+      },
+      {
+        "equipmentId": "flame-glaive",
+        "materialRequirements": [
+          {
+            "materialId": "ruby-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "storm-glaive",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "frost-glaive",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "caustic-glaive",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "poison-glaive",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "hawkwind",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-colossus-bristle",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "world-tree-timber",
+            "quantityNeeded": 6
+          }
+        ]
+      },
+      {
+        "equipmentId": "flame-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "ruby-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "storm-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "frost-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "caustic-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "poison-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "highbrand",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-highbrand",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "amoeba-membrane",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "pangu-s-bone",
+            "quantityNeeded": 7
+          }
+        ]
+      },
+      {
+        "equipmentId": "flame-highbrand",
+        "materialRequirements": [
+          {
+            "materialId": "ruby-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "storm-highbrand",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "frost-highbrand",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "caustic-highbrand",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "poison-highbrand",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "ice-tataraichi",
+    "upgradeTargets": [
+      {
+        "equipmentId": "excellent-tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-colossus-bristle",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "grand-rockgrater-tail",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "fire-tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "ruby-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "inverted-terrapest-barb",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "bolt-tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "inverted-terrapest-barb",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "lytic-tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "inverted-terrapest-barb",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "venom-tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "inverted-terrapest-barb",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "leraje-princeps",
+    "upgradeTargets": [
+      {
+        "equipmentId": "leraje-rex",
+        "materialRequirements": [
+          {
+            "materialId": "silver-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "superior-cotton",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "shed-husk",
+            "quantityNeeded": 6
+          }
+        ]
+      },
+      {
+        "equipmentId": "naberius",
+        "materialRequirements": [
+          {
+            "materialId": "fossilized-tree",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "fruit-of-prela",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "butterfly-antennae",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "longsword",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-longsword",
+        "materialRequirements": [
+          {
+            "materialId": "truesilver-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "pointed-fenris-tail",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "anthrovore-bulb",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "goblin-s-guile",
+        "materialRequirements": [
+          {
+            "materialId": "goblin-s-drop",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "gold-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "sharp-nymphalidae-quill",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "meteor-artis",
+    "upgradeTargets": [
+      {
+        "equipmentId": "meteor-virtutis",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "fly-scale-hide",
+            "quantityNeeded": 10
+          },
+          {
+            "materialId": "reya-s-note",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "meteor-virtutis",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "morningstar",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-morningstar",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "tough-killer-insect-husk",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "divine-brynhildr-wing",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "flame-morningstar",
+        "materialRequirements": [
+          {
+            "materialId": "ruby-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "glasya-labolas-larynx",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "storm-morningstar",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "glasya-labolas-larynx",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "frost-morningstar",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "glasya-labolas-larynx",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "caustic-morningstar",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "glasya-labolas-larynx",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "poison-morningstar",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "glasya-labolas-larynx",
+            "quantityNeeded": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "nagapuran",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "naginata",
+    "upgradeTargets": [
+      {
+        "equipmentId": "fire-naginata",
+        "materialRequirements": [
+          {
+            "materialId": "ruby-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "bolt-naginata",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "ice-naginata",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "lytic-naginata",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "venom-naginata",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "excellent-naginata",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "djin-s-coin",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "bristly-dragon-mane",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "nightbloom-mist",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "nightbloom-royal",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "ninja-katana",
+    "upgradeTargets": [
+      {
+        "equipmentId": "shogun-katana",
+        "materialRequirements": [
+          {
+            "materialId": "platinum-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "fly-fluid",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "large-talon",
+            "quantityNeeded": 3
+          }
+        ]
+      },
+      {
+        "equipmentId": "tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "primordial-alloy",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "divine-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "pest-toxin",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "weapon-recipes",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "divine-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "pest-toxin",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "ninja-uchigatana",
+    "upgradeTargets": [
+      {
+        "equipmentId": "shogun-uchigatana",
+        "materialRequirements": [
+          {
+            "materialId": "mystic-skelenyte",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "crab-fluid",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "glagonos-fragment",
+            "quantityNeeded": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "oriax-dominus",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "orobas-dominus",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "ose",
+    "upgradeTargets": [
+      {
+        "equipmentId": "ose-dominus",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "thick-treant-branch",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "war-dragon-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "paimon",
+    "upgradeTargets": [
+      {
+        "equipmentId": "paimon-dominus",
+        "materialRequirements": [
+          {
+            "materialId": "damascus-ore",
+            "quantityNeeded": 8
+          },
+          {
+            "materialId": "fly-scale-hide",
+            "quantityNeeded": 10
+          },
+          {
+            "materialId": "reya-s-note",
+            "quantityNeeded": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "phoenix-perch",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "poison-glaive",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-glaive",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "ancient-carapace",
+            "quantityNeeded": 3
+          }
+        ]
+      },
+      {
+        "equipmentId": "flame-glaive",
+        "materialRequirements": [
+          {
+            "materialId": "ruby-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "storm-glaive",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "frost-glaive",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "caustic-glaive",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "rhongomynad-artis",
+    "upgradeTargets": [
+      {
+        "equipmentId": "rhongomynad-virtutis",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "sharp-vulture-beak",
+            "quantityNeeded": 10
+          },
+          {
+            "materialId": "reya-s-note",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "rhongomynad-virtutis",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "scythe",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-scythe",
+        "materialRequirements": [
+          {
+            "materialId": "divine-dragonyte",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "demon-bone",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "demon-patagium",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "somberblade-artis",
+    "upgradeTargets": [
+      {
+        "equipmentId": "somberblade-virtutis",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "oarfish-fin",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "reya-s-note",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "somberblade-virtutis",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "spatha-bellatoris",
+    "upgradeTargets": [
+      {
+        "equipmentId": "spatha-praetorius",
+        "materialRequirements": [
+          {
+            "materialId": "royotian-steel",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "meteorite",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "shed-husk",
+            "quantityNeeded": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "stolas-dominus",
+    "upgradeTargets": []
+  },
+  {
+    "equipmentId": "superior-demonblade",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superlative-demonblade",
+        "materialRequirements": [
+          {
+            "materialId": "damascus-ore",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "sharp-manticore-leg",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "reya-s-note",
+            "quantityNeeded": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "superior-hawkwind",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superlative-hawkwind",
+        "materialRequirements": [
+          {
+            "materialId": "damascus-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "tough-phantom-husk",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "djin-s-coin",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "superior-longsword",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superlative-longsword",
+        "materialRequirements": [
+          {
+            "materialId": "blacksteel-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "thin-phantom-wing",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "tanned-colossus-hide",
+            "quantityNeeded": 3
+          }
+        ]
+      },
+      {
+        "equipmentId": "bluesteel",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "giant-shellfly-scalp",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "thin-phantom-wing",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "superior-pitchfork",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superlative-pitchfork",
+        "materialRequirements": [
+          {
+            "materialId": "divine-dragonyte",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "circular-albic-hide",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "vile-lizard-pouch",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "superior-quarterstaff",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superlative-quarterstaff",
+        "materialRequirements": [
+          {
+            "materialId": "blacksteel-ore",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "large-albic-ear",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "evil-fenris-eye",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "superior-scythe",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superlative-scythe",
+        "materialRequirements": [
+          {
+            "materialId": "blacksteel-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "giant-shellfly-scalp",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "superior-vare",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superlative-vare",
+        "materialRequirements": [
+          {
+            "materialId": "blacksteel-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "harpylia-s-hide",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-weredragon-talon",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "superlative-pitchfork",
+    "upgradeTargets": [
+      {
+        "equipmentId": "might-pitchfork",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "crimson-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "tough-killer-insect-husk",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "runic-pitchfork",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "divine-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "tough-killer-insect-husk",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "devil-s-fork",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "leap-frog-fin",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "sharp-landworm-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "superlative-quarterstaff",
+    "upgradeTargets": [
+      {
+        "equipmentId": "might-quarterstaff",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "crimson-ore",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "azhdaha-patagium",
+            "quantityNeeded": 6
+          }
+        ]
+      },
+      {
+        "equipmentId": "runic-quarterstaff",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "divine-metal",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "azhdaha-patagium",
+            "quantityNeeded": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "superlative-vare",
+    "upgradeTargets": [
+      {
+        "equipmentId": "might-vare",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "crimson-ore",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "large-grand-beetle-barb",
+            "quantityNeeded": 4
+          }
+        ]
+      },
+      {
+        "equipmentId": "runic-vare",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "divine-metal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "large-grand-beetle-barb",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "tataraichi",
+    "upgradeTargets": [
+      {
+        "equipmentId": "excellent-tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "large-colossus-bristle",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "grand-rockgrater-tail",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "fire-tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "ruby-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "inverted-terrapest-barb",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "bolt-tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "voltaic-crystal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "inverted-terrapest-barb",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "ice-tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "sapphire-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "inverted-terrapest-barb",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "lytic-tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "snowy-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "inverted-terrapest-barb",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "venom-tataraichi",
+        "materialRequirements": [
+          {
+            "materialId": "emerald-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "inverted-terrapest-barb",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "valac-rex",
+    "upgradeTargets": [
+      {
+        "equipmentId": "valac-dominus",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "colossus-skull",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "iron-husk",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "vare",
+    "upgradeTargets": [
+      {
+        "equipmentId": "superior-vare",
+        "materialRequirements": [
+          {
+            "materialId": "divine-dragonyte",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "vulture-underbelly-fur",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "concealed-spiritlord-horn",
+            "quantityNeeded": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "vine-dominus",
+    "upgradeTargets": [
+      {
+        "equipmentId": "orobas-dominus",
+        "materialRequirements": [
+          {
+            "materialId": "jewel-steel",
+            "quantityNeeded": 3
+          },
+          {
+            "materialId": "sharp-spiritlord-tail",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "bristly-dragon-mane",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "warlord-s-bludgeon",
+    "upgradeTargets": [
+      {
+        "equipmentId": "divine-bludgeon",
+        "materialRequirements": [
+          {
+            "materialId": "mystic-skelenyte",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "blacksteel-ore",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "azhdaha-patagium",
+            "quantityNeeded": 6
+          }
+        ]
+      },
+      {
+        "equipmentId": "draconile-bludgeon",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "grand-spider-fluid",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "thin-oarfish-wing",
+            "quantityNeeded": 8
+          }
+        ]
+      },
+      {
+        "equipmentId": "prismic-bludgeon",
+        "materialRequirements": [
+          {
+            "materialId": "meller-crystal",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "spiky-chimera-tail",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "striped-crab-shell",
+            "quantityNeeded": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "warlord-s-halberd",
+    "upgradeTargets": [
+      {
+        "equipmentId": "divine-halberd",
+        "materialRequirements": [
+          {
+            "materialId": "mystic-skelenyte",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "blacksteel-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "wyvern-beak",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "draconile-halberd",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "wyvern-beak",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "glagonos-fragment",
+            "quantityNeeded": 1
+          }
+        ]
+      },
+      {
+        "equipmentId": "prismic-halberd",
+        "materialRequirements": [
+          {
+            "materialId": "meller-crystal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "imp-scale-hide",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "grand-spider-scalp",
+            "quantityNeeded": 8
+          }
+        ]
+      },
+      {
+        "equipmentId": "glaive",
+        "materialRequirements": [
+          {
+            "materialId": "necrotic-metal",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "tough-brynhildr-husk",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "thick-treant-branch",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "warlord-s-scepter",
+    "upgradeTargets": [
+      {
+        "equipmentId": "prismic-scepter",
+        "materialRequirements": [
+          {
+            "materialId": "meller-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "leap-frog-fin",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "colossus-skull",
+            "quantityNeeded": 8
+          }
+        ]
+      },
+      {
+        "equipmentId": "divine-scepter",
+        "materialRequirements": [
+          {
+            "materialId": "mystic-skelenyte",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "blacksteel-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "evil-fenris-eye",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "draconile-scepter",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "thin-oarfish-wing",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "fly-feather",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "warlord-s-trident",
+    "upgradeTargets": [
+      {
+        "equipmentId": "prismic-trident",
+        "materialRequirements": [
+          {
+            "materialId": "meller-crystal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "grand-spider-fluid",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "vulture-underbelly-fur",
+            "quantityNeeded": 8
+          }
+        ]
+      },
+      {
+        "equipmentId": "divine-trident",
+        "materialRequirements": [
+          {
+            "materialId": "mystic-skelenyte",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "blacksteel-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "imp-scale-hide",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "draconile-trident",
+        "materialRequirements": [
+          {
+            "materialId": "dragonicle-ore",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "vulture-underbelly-fur",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "tanned-land-dragon-hide",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "warrior-s-club",
+    "upgradeTargets": [
+      {
+        "equipmentId": "commander-s-club",
+        "materialRequirements": [
+          {
+            "materialId": "royotian-steel",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "meteorite",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "shed-husk",
+            "quantityNeeded": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "warrior-s-harpoon",
+    "upgradeTargets": [
+      {
+        "equipmentId": "commander-s-harpoon",
+        "materialRequirements": [
+          {
+            "materialId": "royotian-steel",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "meteorite",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "thick-beast-hide",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "warrior-s-rapier",
+    "upgradeTargets": [
+      {
+        "equipmentId": "commander-s-rapier",
+        "materialRequirements": [
+          {
+            "materialId": "vackel-iron",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "albic-hide",
+            "quantityNeeded": 5
+          },
+          {
+            "materialId": "large-feather",
+            "quantityNeeded": 3
+          }
+        ]
+      },
+      {
+        "equipmentId": "singlesword",
+        "materialRequirements": [
+          {
+            "materialId": "shadow-metal",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "imp-tail",
+            "quantityNeeded": 4
+          },
+          {
+            "materialId": "land-dragon-fang",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "warrior-s-rod",
+    "upgradeTargets": [
+      {
+        "equipmentId": "commander-s-rod",
+        "materialRequirements": [
+          {
+            "materialId": "steel-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "talon",
+            "quantityNeeded": 7
+          },
+          {
+            "materialId": "imp-fang",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "warrior-s-tabar-zin",
+    "upgradeTargets": [
+      {
+        "equipmentId": "commander-s-tabar-zin",
+        "materialRequirements": [
+          {
+            "materialId": "steel-ore",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "oilfly",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "land-insecta-carapace",
+            "quantityNeeded": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "equipmentId": "warrior-s-trident",
+    "upgradeTargets": [
+      {
+        "equipmentId": "commander-s-trident",
+        "materialRequirements": [
+          {
+            "materialId": "vackel-iron",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "thick-mystic-fiend-fur",
+            "quantityNeeded": 6
+          },
+          {
+            "materialId": "amoeba-rawhide",
+            "quantityNeeded": 7
+          }
+        ]
+      },
+      {
+        "equipmentId": "cúchulainn-s-frenzy",
+        "materialRequirements": [
+          {
+            "materialId": "cúchulainn-s-heart",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "sharp-papillon-talon",
+            "quantityNeeded": 2
+          },
+          {
+            "materialId": "sharp-azhdaha-fang",
+            "quantityNeeded": 2
+          }
+        ]
+      },
+      {
+        "equipmentId": "commander-s-trident",
+        "materialRequirements": [
+          {
+            "materialId": "weapon-recipes",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "rough-sylph-stone",
+            "quantityNeeded": 1
+          },
+          {
+            "materialId": "hydra-scale",
+            "quantityNeeded": 3
+          }
+        ]
+      }
+    ]
+  }
+]

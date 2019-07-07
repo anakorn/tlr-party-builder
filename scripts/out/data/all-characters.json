@@ -1,6 +1,4 @@
-import * as TLR from '../types/types';
-
-const characters: Array<TLR.Character> = [
+[
   {
     "id": "allan",
     "focus": 0,
@@ -1381,6 +1379,4 @@ const characters: Array<TLR.Character> = [
       ]
     ]
   }
-];
-
-export default characters;
+]

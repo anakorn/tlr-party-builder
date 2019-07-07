@@ -1,0 +1,2238 @@
+[
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "furfur-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Furfur_Dominus"
+          },
+          {
+            "id": "paimon",
+            "url": "https://lastremnant.fandom.com/wiki/Paimon"
+          },
+          {
+            "id": "oriax-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Oriax_Dominus"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "furfur-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Furfur_Dominus"
+          },
+          {
+            "id": "paimon",
+            "url": "https://lastremnant.fandom.com/wiki/Paimon"
+          },
+          {
+            "id": "oriax-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Oriax_Dominus"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "furfur-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Furfur_Dominus"
+          },
+          {
+            "id": "paimon",
+            "url": "https://lastremnant.fandom.com/wiki/Paimon"
+          },
+          {
+            "id": "oriax-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Oriax_Dominus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "warrior-s-trident",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Trident"
+          },
+          {
+            "id": "combat-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Combat_Harpoon"
+          },
+          {
+            "id": "warrior-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Harpoon"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "warrior-s-trident",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Trident"
+          },
+          {
+            "id": "combat-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Combat_Harpoon"
+          },
+          {
+            "id": "warrior-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Harpoon"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "warrior-s-trident",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Trident"
+          },
+          {
+            "id": "combat-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Combat_Harpoon"
+          },
+          {
+            "id": "warrior-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Harpoon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "warrior-s-tabar-zin",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Tabar-Zin"
+          },
+          {
+            "id": "ghorian",
+            "url": "https://lastremnant.fandom.com/wiki/Ghorian"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "warrior-s-tabar-zin",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Tabar-Zin"
+          },
+          {
+            "id": "ghorian",
+            "url": "https://lastremnant.fandom.com/wiki/Ghorian"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "warrior-s-tabar-zin",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Tabar-Zin"
+          },
+          {
+            "id": "ghorian",
+            "url": "https://lastremnant.fandom.com/wiki/Ghorian"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "valac-rex",
+            "url": "https://lastremnant.fandom.com/wiki/Valac_Rex"
+          },
+          {
+            "id": "ose",
+            "url": "https://lastremnant.fandom.com/wiki/Ose"
+          },
+          {
+            "id": "stolas-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Stolas_Dominus"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "valac-rex",
+            "url": "https://lastremnant.fandom.com/wiki/Valac_Rex"
+          },
+          {
+            "id": "ose",
+            "url": "https://lastremnant.fandom.com/wiki/Ose"
+          },
+          {
+            "id": "stolas-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Stolas_Dominus"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "valac-rex",
+            "url": "https://lastremnant.fandom.com/wiki/Valac_Rex"
+          },
+          {
+            "id": "ose",
+            "url": "https://lastremnant.fandom.com/wiki/Ose"
+          },
+          {
+            "id": "stolas-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Stolas_Dominus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "superior-pitchfork",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Pitchfork"
+          },
+          {
+            "id": "superlative-pitchfork",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Pitchfork"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "superior-pitchfork",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Pitchfork"
+          },
+          {
+            "id": "superlative-pitchfork",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Pitchfork"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "superior-pitchfork",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Pitchfork"
+          },
+          {
+            "id": "superlative-pitchfork",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Pitchfork"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "warrior-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Rapier"
+          },
+          {
+            "id": "combat-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Combat_Buckler"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "warrior-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Rapier"
+          },
+          {
+            "id": "combat-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Combat_Buckler"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "warrior-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Rapier"
+          },
+          {
+            "id": "combat-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Combat_Buckler"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "bilqis-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Bilqis_Artis"
+          },
+          {
+            "id": "bilqis-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Bilqis_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "bilqis-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Bilqis_Artis"
+          },
+          {
+            "id": "bilqis-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Bilqis_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "bilqis-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Bilqis_Artis"
+          },
+          {
+            "id": "bilqis-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Bilqis_Virtutis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "emma-s-longsword-upgrade",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Longsword_(Upgrade)"
+          },
+          {
+            "id": "emma-s-tuck-upgrade",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Tuck_(Upgrade)"
+          },
+          {
+            "id": "emma-s-longsword-final",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Longsword_(Final)"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "emma-s-longsword-upgrade",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Longsword_(Upgrade)"
+          },
+          {
+            "id": "emma-s-tuck-upgrade",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Tuck_(Upgrade)"
+          },
+          {
+            "id": "emma-s-longsword-final",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Longsword_(Final)"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "emma-s-longsword-upgrade",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Longsword_(Upgrade)"
+          },
+          {
+            "id": "emma-s-tuck-upgrade",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Tuck_(Upgrade)"
+          },
+          {
+            "id": "emma-s-longsword-final",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Longsword_(Final)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Longsword"
+          },
+          {
+            "id": "superior-longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Longsword"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Longsword"
+          },
+          {
+            "id": "superior-longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Longsword"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Longsword"
+          },
+          {
+            "id": "superior-longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Longsword"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "commander-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Rapier"
+          },
+          {
+            "id": "aspis-bellatoris",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Bellatoris"
+          },
+          {
+            "id": "elite-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rapier"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "commander-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Rapier"
+          },
+          {
+            "id": "aspis-bellatoris",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Bellatoris"
+          },
+          {
+            "id": "elite-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rapier"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "commander-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Rapier"
+          },
+          {
+            "id": "aspis-bellatoris",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Bellatoris"
+          },
+          {
+            "id": "elite-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rapier"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "commander-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Grandsword"
+          },
+          {
+            "id": "elite-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Grandsword"
+          },
+          {
+            "id": "champion-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Grandsword"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "commander-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Grandsword"
+          },
+          {
+            "id": "elite-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Grandsword"
+          },
+          {
+            "id": "champion-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Grandsword"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "commander-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Grandsword"
+          },
+          {
+            "id": "elite-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Grandsword"
+          },
+          {
+            "id": "champion-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Grandsword"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "ninja-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          },
+          {
+            "id": "tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Tataraichi"
+          },
+          {
+            "id": "ice-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Ice_Tataraichi"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "ninja-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          },
+          {
+            "id": "tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Tataraichi"
+          },
+          {
+            "id": "ice-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Ice_Tataraichi"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "ninja-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          },
+          {
+            "id": "tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Tataraichi"
+          },
+          {
+            "id": "ice-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Ice_Tataraichi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "crimsonblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Crimsonblade_Virtutis"
+          },
+          {
+            "id": "nightbloom-royal",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Royal"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "crimsonblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Crimsonblade_Virtutis"
+          },
+          {
+            "id": "nightbloom-royal",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Royal"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "crimsonblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Crimsonblade_Virtutis"
+          },
+          {
+            "id": "nightbloom-royal",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Royal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "nagapuran",
+            "url": "https://lastremnant.fandom.com/wiki/Nagapuran"
+          },
+          {
+            "id": "draconile-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Halberd"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "nagapuran",
+            "url": "https://lastremnant.fandom.com/wiki/Nagapuran"
+          },
+          {
+            "id": "draconile-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Halberd"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "nagapuran",
+            "url": "https://lastremnant.fandom.com/wiki/Nagapuran"
+          },
+          {
+            "id": "draconile-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Halberd"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "azureblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Azureblade_Virtutis"
+          },
+          {
+            "id": "nightbloom-mist",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Mist"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "azureblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Azureblade_Virtutis"
+          },
+          {
+            "id": "nightbloom-mist",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Mist"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "azureblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Azureblade_Virtutis"
+          },
+          {
+            "id": "nightbloom-mist",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Mist"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "warlord-s-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Halberd"
+          },
+          {
+            "id": "glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Glaive"
+          },
+          {
+            "id": "poison-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Glaive"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "warlord-s-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Halberd"
+          },
+          {
+            "id": "glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Glaive"
+          },
+          {
+            "id": "poison-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Glaive"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "warlord-s-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Halberd"
+          },
+          {
+            "id": "glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Glaive"
+          },
+          {
+            "id": "poison-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Glaive"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "spatha-bellatoris",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Bellatoris"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "spatha-bellatoris",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Bellatoris"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "spatha-bellatoris",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Bellatoris"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "warlord-s-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Scepter"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "warlord-s-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Scepter"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "warlord-s-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Scepter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "warlord-s-trident",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Trident"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "warlord-s-trident",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Trident"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "warlord-s-trident",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Trident"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "champion-s-bludgeon",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Bludgeon"
+          },
+          {
+            "id": "warlord-s-bludgeon",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Bludgeon"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "champion-s-bludgeon",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Bludgeon"
+          },
+          {
+            "id": "warlord-s-bludgeon",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Bludgeon"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "champion-s-bludgeon",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Bludgeon"
+          },
+          {
+            "id": "warlord-s-bludgeon",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Bludgeon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Hawkwind"
+          },
+          {
+            "id": "flame-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Hawkwind"
+          },
+          {
+            "id": "superior-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Hawkwind"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Hawkwind"
+          },
+          {
+            "id": "flame-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Hawkwind"
+          },
+          {
+            "id": "superior-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Hawkwind"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Hawkwind"
+          },
+          {
+            "id": "flame-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Hawkwind"
+          },
+          {
+            "id": "superior-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Hawkwind"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "vare",
+            "url": "https://lastremnant.fandom.com/wiki/Vare"
+          },
+          {
+            "id": "superior-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Vare"
+          },
+          {
+            "id": "superlative-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Vare"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "vare",
+            "url": "https://lastremnant.fandom.com/wiki/Vare"
+          },
+          {
+            "id": "superior-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Vare"
+          },
+          {
+            "id": "superlative-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Vare"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "vare",
+            "url": "https://lastremnant.fandom.com/wiki/Vare"
+          },
+          {
+            "id": "superior-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Vare"
+          },
+          {
+            "id": "superlative-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Vare"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "ninja-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "ninja-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "ninja-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "aspis-nobilatis",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Nobilatis"
+          },
+          {
+            "id": "superior-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "aspis-nobilatis",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Nobilatis"
+          },
+          {
+            "id": "superior-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "aspis-nobilatis",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Nobilatis"
+          },
+          {
+            "id": "superior-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Demonblade"
+          },
+          {
+            "id": "flame-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Demonblade"
+          },
+          {
+            "id": "superior-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Demonblade"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Demonblade"
+          },
+          {
+            "id": "flame-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Demonblade"
+          },
+          {
+            "id": "superior-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Demonblade"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Demonblade"
+          },
+          {
+            "id": "flame-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Demonblade"
+          },
+          {
+            "id": "superior-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Demonblade"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "elite-s-mace",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Mace"
+          },
+          {
+            "id": "champion-s-mace",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Mace"
+          },
+          {
+            "id": "morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Morningstar"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "elite-s-mace",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Mace"
+          },
+          {
+            "id": "champion-s-mace",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Mace"
+          },
+          {
+            "id": "morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Morningstar"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "elite-s-mace",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Mace"
+          },
+          {
+            "id": "champion-s-mace",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Mace"
+          },
+          {
+            "id": "morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Morningstar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "vine-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Vine_Dominus"
+          },
+          {
+            "id": "paimon",
+            "url": "https://lastremnant.fandom.com/wiki/Paimon"
+          },
+          {
+            "id": "orobas-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Orobas_Dominus"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "vine-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Vine_Dominus"
+          },
+          {
+            "id": "paimon",
+            "url": "https://lastremnant.fandom.com/wiki/Paimon"
+          },
+          {
+            "id": "orobas-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Orobas_Dominus"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "vine-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Vine_Dominus"
+          },
+          {
+            "id": "paimon",
+            "url": "https://lastremnant.fandom.com/wiki/Paimon"
+          },
+          {
+            "id": "orobas-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Orobas_Dominus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "commander-s-striker",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Striker"
+          },
+          {
+            "id": "scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Scythe"
+          },
+          {
+            "id": "superior-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "commander-s-striker",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Striker"
+          },
+          {
+            "id": "scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Scythe"
+          },
+          {
+            "id": "superior-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "commander-s-striker",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Striker"
+          },
+          {
+            "id": "scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Scythe"
+          },
+          {
+            "id": "superior-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "dvergr-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Dvergr_Artis"
+          },
+          {
+            "id": "dvergr-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Dvergr_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "dvergr-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Dvergr_Artis"
+          },
+          {
+            "id": "dvergr-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Dvergr_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "dvergr-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Dvergr_Artis"
+          },
+          {
+            "id": "dvergr-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Dvergr_Virtutis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "elite-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rod"
+          },
+          {
+            "id": "champion-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rod"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "elite-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rod"
+          },
+          {
+            "id": "champion-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rod"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "elite-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rod"
+          },
+          {
+            "id": "champion-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rod"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "meteor-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Meteor_Artis"
+          },
+          {
+            "id": "meteor-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Meteor_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "meteor-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Meteor_Artis"
+          },
+          {
+            "id": "meteor-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Meteor_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "meteor-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Meteor_Artis"
+          },
+          {
+            "id": "meteor-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Meteor_Virtutis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "elite-s-sledgehammer",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Sledgehammer"
+          },
+          {
+            "id": "champion-s-sledgehammer",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Sledgehammer"
+          },
+          {
+            "id": "blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Blackjack"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "elite-s-sledgehammer",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Sledgehammer"
+          },
+          {
+            "id": "champion-s-sledgehammer",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Sledgehammer"
+          },
+          {
+            "id": "blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Blackjack"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "elite-s-sledgehammer",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Sledgehammer"
+          },
+          {
+            "id": "champion-s-sledgehammer",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Sledgehammer"
+          },
+          {
+            "id": "blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Blackjack"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "warrior-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Rod"
+          },
+          {
+            "id": "commander-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Rod"
+          },
+          {
+            "id": "elite-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rod"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "warrior-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Rod"
+          },
+          {
+            "id": "commander-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Rod"
+          },
+          {
+            "id": "elite-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rod"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "warrior-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Rod"
+          },
+          {
+            "id": "commander-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Rod"
+          },
+          {
+            "id": "elite-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rod"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "phoenix-perch",
+            "url": "https://lastremnant.fandom.com/wiki/Phoenix_Perch"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "phoenix-perch",
+            "url": "https://lastremnant.fandom.com/wiki/Phoenix_Perch"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "phoenix-perch",
+            "url": "https://lastremnant.fandom.com/wiki/Phoenix_Perch"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "warrior-s-club",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Club"
+          },
+          {
+            "id": "commander-s-club",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Club"
+          },
+          {
+            "id": "elite-s-club",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Club"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "warrior-s-club",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Club"
+          },
+          {
+            "id": "commander-s-club",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Club"
+          },
+          {
+            "id": "elite-s-club",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Club"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "warrior-s-club",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Club"
+          },
+          {
+            "id": "commander-s-club",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Club"
+          },
+          {
+            "id": "elite-s-club",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Club"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "commander-s-claymore",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Claymore"
+          },
+          {
+            "id": "elite-s-claymore",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Claymore"
+          },
+          {
+            "id": "highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Highbrand"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "commander-s-claymore",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Claymore"
+          },
+          {
+            "id": "elite-s-claymore",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Claymore"
+          },
+          {
+            "id": "highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Highbrand"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "commander-s-claymore",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Claymore"
+          },
+          {
+            "id": "elite-s-claymore",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Claymore"
+          },
+          {
+            "id": "highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Highbrand"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "superior-quarterstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Quarterstaff"
+          },
+          {
+            "id": "superlative-quarterstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Quarterstaff"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "superior-quarterstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Quarterstaff"
+          },
+          {
+            "id": "superlative-quarterstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Quarterstaff"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "superior-quarterstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Quarterstaff"
+          },
+          {
+            "id": "superlative-quarterstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Quarterstaff"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "divine-striker",
+            "url": "https://lastremnant.fandom.com/wiki/Divine_Striker"
+          },
+          {
+            "id": "damascene-striker",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Striker"
+          },
+          {
+            "id": "daedalus-weapon",
+            "url": "https://lastremnant.fandom.com/wiki/Daedalus_(Weapon)"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "divine-striker",
+            "url": "https://lastremnant.fandom.com/wiki/Divine_Striker"
+          },
+          {
+            "id": "damascene-striker",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Striker"
+          },
+          {
+            "id": "daedalus-weapon",
+            "url": "https://lastremnant.fandom.com/wiki/Daedalus_(Weapon)"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "divine-striker",
+            "url": "https://lastremnant.fandom.com/wiki/Divine_Striker"
+          },
+          {
+            "id": "damascene-striker",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Striker"
+          },
+          {
+            "id": "daedalus-weapon",
+            "url": "https://lastremnant.fandom.com/wiki/Daedalus_(Weapon)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "rhongomynad-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Rhongomynad_Artis"
+          },
+          {
+            "id": "rhongomynad-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Rhongomynad_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "rhongomynad-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Rhongomynad_Artis"
+          },
+          {
+            "id": "rhongomynad-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Rhongomynad_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "rhongomynad-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Rhongomynad_Artis"
+          },
+          {
+            "id": "rhongomynad-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Rhongomynad_Virtutis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "warlord-s-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Scepter"
+          },
+          {
+            "id": "draconile-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Scepter"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "warlord-s-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Scepter"
+          },
+          {
+            "id": "draconile-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Scepter"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "warlord-s-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Scepter"
+          },
+          {
+            "id": "draconile-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Scepter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "leraje-princeps",
+            "url": "https://lastremnant.fandom.com/wiki/Leraje_Princeps"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "leraje-princeps",
+            "url": "https://lastremnant.fandom.com/wiki/Leraje_Princeps"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "leraje-princeps",
+            "url": "https://lastremnant.fandom.com/wiki/Leraje_Princeps"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "commander-s-cudgel",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Cudgel"
+          },
+          {
+            "id": "vare",
+            "url": "https://lastremnant.fandom.com/wiki/Vare"
+          },
+          {
+            "id": "superior-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Vare"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "commander-s-cudgel",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Cudgel"
+          },
+          {
+            "id": "vare",
+            "url": "https://lastremnant.fandom.com/wiki/Vare"
+          },
+          {
+            "id": "superior-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Vare"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "commander-s-cudgel",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Cudgel"
+          },
+          {
+            "id": "vare",
+            "url": "https://lastremnant.fandom.com/wiki/Vare"
+          },
+          {
+            "id": "superior-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Vare"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "gaap",
+            "url": "https://lastremnant.fandom.com/wiki/Gaap"
+          },
+          {
+            "id": "gaap-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Gaap_Dominus"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "gaap",
+            "url": "https://lastremnant.fandom.com/wiki/Gaap"
+          },
+          {
+            "id": "gaap-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Gaap_Dominus"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "gaap",
+            "url": "https://lastremnant.fandom.com/wiki/Gaap"
+          },
+          {
+            "id": "gaap-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Gaap_Dominus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "frostsword-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostsword_Artis"
+          },
+          {
+            "id": "frostsword-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostsword_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "frostsword-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostsword_Artis"
+          },
+          {
+            "id": "frostsword-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostsword_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "frostsword-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostsword_Artis"
+          },
+          {
+            "id": "frostsword-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostsword_Virtutis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "champion-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Harpoon"
+          },
+          {
+            "id": "naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Naginata"
+          },
+          {
+            "id": "bolt-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Bolt_Naginata"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "champion-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Harpoon"
+          },
+          {
+            "id": "naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Naginata"
+          },
+          {
+            "id": "bolt-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Bolt_Naginata"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "champion-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Harpoon"
+          },
+          {
+            "id": "naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Naginata"
+          },
+          {
+            "id": "bolt-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Bolt_Naginata"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "ninja-uchigatana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Uchigatana"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "ninja-uchigatana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Uchigatana"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "ninja-uchigatana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Uchigatana"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "focus": 0,
+    "upgradePaths": [
+      {
+        "focus": 0,
+        "equipments": [
+          {
+            "id": "somberblade-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Somberblade_Artis"
+          },
+          {
+            "id": "somberblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Somberblade_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 1,
+        "equipments": [
+          {
+            "id": "somberblade-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Somberblade_Artis"
+          },
+          {
+            "id": "somberblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Somberblade_Virtutis"
+          }
+        ]
+      },
+      {
+        "focus": 2,
+        "equipments": [
+          {
+            "id": "somberblade-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Somberblade_Artis"
+          },
+          {
+            "id": "somberblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Somberblade_Virtutis"
+          }
+        ]
+      }
+    ]
+  }
+]

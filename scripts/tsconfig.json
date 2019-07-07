@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    // "allowJs": true,
+    // "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    // "noImplicitAny": true,
+    // "strict": true,
+    // "forceConsistentCasingInFileNames": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    // "resolveJsonModule": true,
+    "sourceMap": true,
+    "outDir": "out"
+  }
+}
