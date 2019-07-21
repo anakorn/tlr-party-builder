@@ -43,7 +43,7 @@ if (!fs_1.default.existsSync(path_1.default.join(__dirname, 'data'))) {
 const throttledFetch = p_throttle_1.default((url) => {
     console.log(`Fetching: ${url}`);
     return axios_1.default.get(url).then(x => x.data);
-}, 5, 5000);
+}, 10, 3000);
 // Characters
 // (async () => {
 //     const html = (await axios.get('https://lastremnant.fandom.com/wiki/Category:Unique_Leader')).data;
@@ -69,14 +69,14 @@ const throttledFetch = p_throttle_1.default((url) => {
 //             .map(html => {
 //                 const $ = cheerio.load(html);
 //                 const focuses: string[] = $('.pc .weaponupgrade tr:nth-child(1) th').map((i, th) => $(th).text().trim().toUpperCase()).get();
-//                 const upgradePaths = focuses.map((focus, i) => {
+//                 const upgradePaths = focuses.map((focus, j) => {
 //                     return ({
 //                         focus: FOCUS[focus],
 //                         equipments: $('.pc .weaponupgrade tr:nth-child(n + 2)')
-//                             .filter((i, tr) => !!$(tr).find('td a').get(i))
+//                             .filter((i, tr) => !!$(tr).find(`td:nth-child(${j + 1}) a`).attr('title'))
 //                             .map((i, tr): Equipment => ({
-//                                 id: kebabCase($(tr).find('td a').get(i).attribs.title),
-//                                 url: 'https://lastremnant.fandom.com' + $(tr).find('td a').get(i).attribs.href
+//                                 id: kebabCase($(tr).find(`td:nth-child(${j + 1}) a`).attr('title')),
+//                                 url: 'https://lastremnant.fandom.com' + $(tr).find(`td:nth-child(${j + 1}) a`).attr('href')
 //                             }))
 //                             .get()
 //                     })
@@ -97,7 +97,7 @@ const throttledFetch = p_throttle_1.default((url) => {
 //     try {
 //         equipmentDetails = (await Promise.all(R.compose(
 //             R.map((x: Equipment) => throttledFetch(x.url)),
-//             // R.filter(R.propEq('id', 'commander-s-grandsword')),
+//             // R.filter(R.propEq('id', 'optimal-naginata')),
 //             // R.slice(0, 6),
 //             R.uniqBy(R.prop('id')),
 //             R.sortBy(R.prop('id')),
@@ -112,6 +112,7 @@ const throttledFetch = p_throttle_1.default((url) => {
 //                         .map((i, el): UpgradeTarget => ({
 //                             equipmentId: kebabCase($(el).find('a').get(0).attribs.title),
 //                             materialRequirements: $(el).children().find('table tr td')
+//                                 .filter((i, td) => !!$(td).find('a').get(0))
 //                                 .map((i, td): MaterialRequirement => {
 //                                     try {
 //                                         return ({
@@ -119,7 +120,7 @@ const throttledFetch = p_throttle_1.default((url) => {
 //                                             quantityNeeded: parseInt(/x\s*(\d+)/.exec($(td).text().trim())[1], 10)
 //                                         });
 //                                     } catch (e) {
-//                                         throw new Error(`Error while parsing ${kebabCase($($('h1').get(0)).text())}`);
+//                                         throw new Error(e);
 //                                     }
 //                                 })
 //                                 .get()

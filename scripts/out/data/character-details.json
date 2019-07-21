@@ -10,8 +10,8 @@
             "url": "https://lastremnant.fandom.com/wiki/Furfur_Dominus"
           },
           {
-            "id": "paimon",
-            "url": "https://lastremnant.fandom.com/wiki/Paimon"
+            "id": "oriax",
+            "url": "https://lastremnant.fandom.com/wiki/Oriax"
           },
           {
             "id": "oriax-dominus",
@@ -21,31 +21,31 @@
       },
       {
         "focus": 1,
+        "equipments": [
+          {
+            "id": "belial-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Belial_Dominus"
+          },
+          {
+            "id": "paimon",
+            "url": "https://lastremnant.fandom.com/wiki/Paimon"
+          },
+          {
+            "id": "paimon-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Paimon_Dominus"
+          }
+        ]
+      },
+      {
+        "focus": 2,
         "equipments": [
           {
             "id": "furfur-dominus",
             "url": "https://lastremnant.fandom.com/wiki/Furfur_Dominus"
           },
           {
-            "id": "paimon",
-            "url": "https://lastremnant.fandom.com/wiki/Paimon"
-          },
-          {
-            "id": "oriax-dominus",
-            "url": "https://lastremnant.fandom.com/wiki/Oriax_Dominus"
-          }
-        ]
-      },
-      {
-        "focus": 2,
-        "equipments": [
-          {
-            "id": "furfur-dominus",
-            "url": "https://lastremnant.fandom.com/wiki/Furfur_Dominus"
-          },
-          {
-            "id": "paimon",
-            "url": "https://lastremnant.fandom.com/wiki/Paimon"
+            "id": "oriax",
+            "url": "https://lastremnant.fandom.com/wiki/Oriax"
           },
           {
             "id": "oriax-dominus",
@@ -72,6 +72,26 @@
           {
             "id": "warrior-s-harpoon",
             "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Harpoon"
+          },
+          {
+            "id": "commander-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Harpoon"
+          },
+          {
+            "id": "elite-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Harpoon"
+          },
+          {
+            "id": "champion-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Harpoon"
+          },
+          {
+            "id": "naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Naginata"
+          },
+          {
+            "id": "fafnirsbane",
+            "url": "https://lastremnant.fandom.com/wiki/Fafnirsbane"
           }
         ]
       },
@@ -89,6 +109,26 @@
           {
             "id": "warrior-s-harpoon",
             "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Harpoon"
+          },
+          {
+            "id": "commander-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Harpoon"
+          },
+          {
+            "id": "elite-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Harpoon"
+          },
+          {
+            "id": "champion-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Harpoon"
+          },
+          {
+            "id": "naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Naginata"
+          },
+          {
+            "id": "fafnirsbane",
+            "url": "https://lastremnant.fandom.com/wiki/Fafnirsbane"
           }
         ]
       },
@@ -106,6 +146,26 @@
           {
             "id": "warrior-s-harpoon",
             "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Harpoon"
+          },
+          {
+            "id": "commander-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Harpoon"
+          },
+          {
+            "id": "elite-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Harpoon"
+          },
+          {
+            "id": "champion-s-harpoon",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Harpoon"
+          },
+          {
+            "id": "naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Naginata"
+          },
+          {
+            "id": "fafnirsbane",
+            "url": "https://lastremnant.fandom.com/wiki/Fafnirsbane"
           }
         ]
       }
@@ -122,8 +182,28 @@
             "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Tabar-Zin"
           },
           {
-            "id": "ghorian",
-            "url": "https://lastremnant.fandom.com/wiki/Ghorian"
+            "id": "commander-s-tabar-zin",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Tabar-Zin"
+          },
+          {
+            "id": "elite-s-tabar-zin",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Tabar-Zin"
+          },
+          {
+            "id": "champion-s-tabar-zin",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Tabar-Zin"
+          },
+          {
+            "id": "warlord-s-tabar-zin",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Tabar-Zin"
+          },
+          {
+            "id": "divine-tabar-zin",
+            "url": "https://lastremnant.fandom.com/wiki/Divine_Tabar-Zin"
+          },
+          {
+            "id": "fellwyrm",
+            "url": "https://lastremnant.fandom.com/wiki/Fellwyrm"
           }
         ]
       },
@@ -137,6 +217,22 @@
           {
             "id": "ghorian",
             "url": "https://lastremnant.fandom.com/wiki/Ghorian"
+          },
+          {
+            "id": "executioner-weapon",
+            "url": "https://lastremnant.fandom.com/wiki/Executioner_(Weapon)"
+          },
+          {
+            "id": "superior-executioner",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Executioner"
+          },
+          {
+            "id": "superlative-executioner",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Executioner"
+          },
+          {
+            "id": "might-executioner",
+            "url": "https://lastremnant.fandom.com/wiki/Might_Executioner"
           }
         ]
       },
@@ -148,8 +244,28 @@
             "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Tabar-Zin"
           },
           {
-            "id": "ghorian",
-            "url": "https://lastremnant.fandom.com/wiki/Ghorian"
+            "id": "commander-s-tabar-zin",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Tabar-Zin"
+          },
+          {
+            "id": "elite-s-tabar-zin",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Tabar-Zin"
+          },
+          {
+            "id": "executioner-weapon",
+            "url": "https://lastremnant.fandom.com/wiki/Executioner_(Weapon)"
+          },
+          {
+            "id": "superior-executioner",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Executioner"
+          },
+          {
+            "id": "superlative-executioner",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Executioner"
+          },
+          {
+            "id": "runic-executioner",
+            "url": "https://lastremnant.fandom.com/wiki/Runic_Executioner"
           }
         ]
       }
@@ -170,8 +286,16 @@
             "url": "https://lastremnant.fandom.com/wiki/Ose"
           },
           {
-            "id": "stolas-dominus",
-            "url": "https://lastremnant.fandom.com/wiki/Stolas_Dominus"
+            "id": "ose-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Ose_Dominus"
+          },
+          {
+            "id": "buer",
+            "url": "https://lastremnant.fandom.com/wiki/Buer"
+          },
+          {
+            "id": "buer-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Buer_Dominus"
           }
         ]
       },
@@ -187,8 +311,16 @@
             "url": "https://lastremnant.fandom.com/wiki/Ose"
           },
           {
-            "id": "stolas-dominus",
-            "url": "https://lastremnant.fandom.com/wiki/Stolas_Dominus"
+            "id": "ose-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Ose_Dominus"
+          },
+          {
+            "id": "buer",
+            "url": "https://lastremnant.fandom.com/wiki/Buer"
+          },
+          {
+            "id": "buer-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Buer_Dominus"
           }
         ]
       },
@@ -196,16 +328,24 @@
         "focus": 2,
         "equipments": [
           {
-            "id": "valac-rex",
-            "url": "https://lastremnant.fandom.com/wiki/Valac_Rex"
+            "id": "foras-rex",
+            "url": "https://lastremnant.fandom.com/wiki/Foras_Rex"
           },
           {
-            "id": "ose",
-            "url": "https://lastremnant.fandom.com/wiki/Ose"
+            "id": "stolas",
+            "url": "https://lastremnant.fandom.com/wiki/Stolas"
           },
           {
             "id": "stolas-dominus",
             "url": "https://lastremnant.fandom.com/wiki/Stolas_Dominus"
+          },
+          {
+            "id": "buer",
+            "url": "https://lastremnant.fandom.com/wiki/Buer"
+          },
+          {
+            "id": "buer-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Buer_Dominus"
           }
         ]
       }
@@ -224,6 +364,10 @@
           {
             "id": "superlative-pitchfork",
             "url": "https://lastremnant.fandom.com/wiki/Superlative_Pitchfork"
+          },
+          {
+            "id": "devil-s-fork",
+            "url": "https://lastremnant.fandom.com/wiki/Devil%27s_Fork"
           }
         ]
       },
@@ -237,6 +381,14 @@
           {
             "id": "superlative-pitchfork",
             "url": "https://lastremnant.fandom.com/wiki/Superlative_Pitchfork"
+          },
+          {
+            "id": "might-pitchfork",
+            "url": "https://lastremnant.fandom.com/wiki/Might_Pitchfork"
+          },
+          {
+            "id": "devil-s-fork",
+            "url": "https://lastremnant.fandom.com/wiki/Devil%27s_Fork"
           }
         ]
       },
@@ -250,6 +402,14 @@
           {
             "id": "superlative-pitchfork",
             "url": "https://lastremnant.fandom.com/wiki/Superlative_Pitchfork"
+          },
+          {
+            "id": "runic-pitchfork",
+            "url": "https://lastremnant.fandom.com/wiki/Runic_Pitchfork"
+          },
+          {
+            "id": "devil-s-fork",
+            "url": "https://lastremnant.fandom.com/wiki/Devil%27s_Fork"
           }
         ]
       }
@@ -268,6 +428,54 @@
           {
             "id": "combat-buckler",
             "url": "https://lastremnant.fandom.com/wiki/Combat_Buckler"
+          },
+          {
+            "id": "warrior-s-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Buckler"
+          },
+          {
+            "id": "commander-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Rapier"
+          },
+          {
+            "id": "pixie-s-heart",
+            "url": "https://lastremnant.fandom.com/wiki/Pixie%27s_Heart"
+          },
+          {
+            "id": "elite-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rapier"
+          },
+          {
+            "id": "elite-s-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Buckler"
+          },
+          {
+            "id": "champion-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rapier"
+          },
+          {
+            "id": "rider-shield",
+            "url": "https://lastremnant.fandom.com/wiki/Rider_Shield"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "flame-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "damascene-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Buckler"
           }
         ]
       },
@@ -281,6 +489,62 @@
           {
             "id": "combat-buckler",
             "url": "https://lastremnant.fandom.com/wiki/Combat_Buckler"
+          },
+          {
+            "id": "warrior-s-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Buckler"
+          },
+          {
+            "id": "commander-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Rapier"
+          },
+          {
+            "id": "commander-s-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Buckler"
+          },
+          {
+            "id": "elite-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rapier"
+          },
+          {
+            "id": "elite-s-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Buckler"
+          },
+          {
+            "id": "champion-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rapier"
+          },
+          {
+            "id": "champion-s-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Buckler"
+          },
+          {
+            "id": "draconile-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Buckler"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "flame-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "shielding-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Bluesteel"
+          },
+          {
+            "id": "divine-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Divine_Buckler"
           }
         ]
       },
@@ -294,6 +558,58 @@
           {
             "id": "combat-buckler",
             "url": "https://lastremnant.fandom.com/wiki/Combat_Buckler"
+          },
+          {
+            "id": "warrior-s-buckler",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Buckler"
+          },
+          {
+            "id": "commander-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Rapier"
+          },
+          {
+            "id": "targe",
+            "url": "https://lastremnant.fandom.com/wiki/Targe"
+          },
+          {
+            "id": "elite-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rapier"
+          },
+          {
+            "id": "superior-targe",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Targe"
+          },
+          {
+            "id": "champion-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rapier"
+          },
+          {
+            "id": "force-targe",
+            "url": "https://lastremnant.fandom.com/wiki/Force_Targe"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "flame-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "enchanted-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Bluesteel"
+          },
+          {
+            "id": "superlative-targe",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Targe"
           }
         ]
       }
@@ -360,6 +676,50 @@
           {
             "id": "emma-s-longsword-final",
             "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Longsword_(Final)"
+          },
+          {
+            "id": "emma-s-tuck-final",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Tuck_(Final)"
+          },
+          {
+            "id": "longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Longsword"
+          },
+          {
+            "id": "tuck",
+            "url": "https://lastremnant.fandom.com/wiki/Tuck"
+          },
+          {
+            "id": "superior-longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Longsword"
+          },
+          {
+            "id": "superior-tuck",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Tuck"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
           }
         ]
       },
@@ -377,6 +737,58 @@
           {
             "id": "emma-s-longsword-final",
             "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Longsword_(Final)"
+          },
+          {
+            "id": "emma-s-tuck-final",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Tuck_(Final)"
+          },
+          {
+            "id": "longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Longsword"
+          },
+          {
+            "id": "tuck",
+            "url": "https://lastremnant.fandom.com/wiki/Tuck"
+          },
+          {
+            "id": "superior-longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Longsword"
+          },
+          {
+            "id": "superior-tuck",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Tuck"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "shielding-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Bluesteel"
+          },
+          {
+            "id": "shielding-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Bluesteel"
           }
         ]
       },
@@ -394,6 +806,58 @@
           {
             "id": "emma-s-longsword-final",
             "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Longsword_(Final)"
+          },
+          {
+            "id": "emma-s-tuck-final",
+            "url": "https://lastremnant.fandom.com/wiki/Emma%27s_Tuck_(Final)"
+          },
+          {
+            "id": "longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Longsword"
+          },
+          {
+            "id": "tuck",
+            "url": "https://lastremnant.fandom.com/wiki/Tuck"
+          },
+          {
+            "id": "superior-longsword",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Longsword"
+          },
+          {
+            "id": "superior-tuck",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Tuck"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "enchanted-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Bluesteel"
+          },
+          {
+            "id": "enchanted-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Bluesteel"
           }
         ]
       }
@@ -412,6 +876,46 @@
           {
             "id": "superior-longsword",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Longsword"
+          },
+          {
+            "id": "superior-tuck",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Tuck"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "nightbloom",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom"
+          },
+          {
+            "id": "nightbloom-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Artis"
+          },
+          {
+            "id": "nightbloom-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Virtutis"
           }
         ]
       },
@@ -425,6 +929,54 @@
           {
             "id": "superior-longsword",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Longsword"
+          },
+          {
+            "id": "superior-tuck",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Tuck"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "shielding-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Bluesteel"
+          },
+          {
+            "id": "shielding-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Bluesteel"
+          },
+          {
+            "id": "nightbloom",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom"
+          },
+          {
+            "id": "nightbloom-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Artis"
+          },
+          {
+            "id": "nightbloom-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Virtutis"
           }
         ]
       },
@@ -438,6 +990,54 @@
           {
             "id": "superior-longsword",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Longsword"
+          },
+          {
+            "id": "superior-tuck",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Tuck"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "enchanted-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Bluesteel"
+          },
+          {
+            "id": "enchanted-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Bluesteel"
+          },
+          {
+            "id": "nightbloom",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom"
+          },
+          {
+            "id": "nightbloom-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Artis"
+          },
+          {
+            "id": "nightbloom-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Virtutis"
           }
         ]
       }
@@ -460,6 +1060,50 @@
           {
             "id": "elite-s-rapier",
             "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rapier"
+          },
+          {
+            "id": "aspis-praetorius",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Praetorius"
+          },
+          {
+            "id": "champion-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rapier"
+          },
+          {
+            "id": "aspis-nobilatis",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Nobilatis"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "soulshield-shield",
+            "url": "https://lastremnant.fandom.com/wiki/Soulshield_(Shield)"
+          },
+          {
+            "id": "poison-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Bluesteel"
+          },
+          {
+            "id": "caustic-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Caustic_Soulshield"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superior-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Soulshield"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "superlative-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Soulshield"
           }
         ]
       },
@@ -477,6 +1121,58 @@
           {
             "id": "elite-s-rapier",
             "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rapier"
+          },
+          {
+            "id": "aspis-praetorius",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Praetorius"
+          },
+          {
+            "id": "champion-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rapier"
+          },
+          {
+            "id": "aspis-nobilatis",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Nobilatis"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "soulshield-shield",
+            "url": "https://lastremnant.fandom.com/wiki/Soulshield_(Shield)"
+          },
+          {
+            "id": "poison-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Bluesteel"
+          },
+          {
+            "id": "caustic-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Caustic_Soulshield"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superior-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Soulshield"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "superlative-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Soulshield"
+          },
+          {
+            "id": "shielding-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Bluesteel"
+          },
+          {
+            "id": "shielding-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Soulshield"
           }
         ]
       },
@@ -494,6 +1190,58 @@
           {
             "id": "elite-s-rapier",
             "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rapier"
+          },
+          {
+            "id": "aspis-praetorius",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Praetorius"
+          },
+          {
+            "id": "champion-s-rapier",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rapier"
+          },
+          {
+            "id": "aspis-nobilatis",
+            "url": "https://lastremnant.fandom.com/wiki/Aspis_Nobilatis"
+          },
+          {
+            "id": "bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Bluesteel"
+          },
+          {
+            "id": "soulshield-shield",
+            "url": "https://lastremnant.fandom.com/wiki/Soulshield_(Shield)"
+          },
+          {
+            "id": "poison-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Bluesteel"
+          },
+          {
+            "id": "caustic-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Caustic_Soulshield"
+          },
+          {
+            "id": "superior-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Bluesteel"
+          },
+          {
+            "id": "superior-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Soulshield"
+          },
+          {
+            "id": "superlative-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Bluesteel"
+          },
+          {
+            "id": "superlative-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Soulshield"
+          },
+          {
+            "id": "enchanted-bluesteel",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Bluesteel"
+          },
+          {
+            "id": "enchanted-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Soulshield"
           }
         ]
       }
@@ -516,6 +1264,38 @@
           {
             "id": "champion-s-grandsword",
             "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Grandsword"
+          },
+          {
+            "id": "warlord-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Grandsword"
+          },
+          {
+            "id": "masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Masterblade"
+          },
+          {
+            "id": "poison-masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Masterblade"
+          },
+          {
+            "id": "superior-masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Masterblade"
+          },
+          {
+            "id": "superlative-masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Masterblade"
+          },
+          {
+            "id": "obsidian",
+            "url": "https://lastremnant.fandom.com/wiki/Obsidian"
+          },
+          {
+            "id": "obsidian-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Obsidian_Artis"
+          },
+          {
+            "id": "obsidian-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Obsidian_Virtutis"
           }
         ]
       },
@@ -533,6 +1313,42 @@
           {
             "id": "champion-s-grandsword",
             "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Grandsword"
+          },
+          {
+            "id": "warlord-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Grandsword"
+          },
+          {
+            "id": "masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Masterblade"
+          },
+          {
+            "id": "poison-masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Masterblade"
+          },
+          {
+            "id": "superior-masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Masterblade"
+          },
+          {
+            "id": "superlative-masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Masterblade"
+          },
+          {
+            "id": "shielding-masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Masterblade"
+          },
+          {
+            "id": "obsidian",
+            "url": "https://lastremnant.fandom.com/wiki/Obsidian"
+          },
+          {
+            "id": "obsidian-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Obsidian_Artis"
+          },
+          {
+            "id": "obsidian-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Obsidian_Virtutis"
           }
         ]
       },
@@ -550,6 +1366,42 @@
           {
             "id": "champion-s-grandsword",
             "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Grandsword"
+          },
+          {
+            "id": "warlord-s-grandsword",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Grandsword"
+          },
+          {
+            "id": "masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Masterblade"
+          },
+          {
+            "id": "poison-masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Masterblade"
+          },
+          {
+            "id": "superior-masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Masterblade"
+          },
+          {
+            "id": "superlative-masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Masterblade"
+          },
+          {
+            "id": "enchanted-masterblade",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Masterblade"
+          },
+          {
+            "id": "obsidian",
+            "url": "https://lastremnant.fandom.com/wiki/Obsidian"
+          },
+          {
+            "id": "obsidian-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Obsidian_Artis"
+          },
+          {
+            "id": "obsidian-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Obsidian_Virtutis"
           }
         ]
       }
@@ -570,8 +1422,16 @@
             "url": "https://lastremnant.fandom.com/wiki/Tataraichi"
           },
           {
-            "id": "ice-tataraichi",
-            "url": "https://lastremnant.fandom.com/wiki/Ice_Tataraichi"
+            "id": "lytic-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Lytic_Tataraichi"
+          },
+          {
+            "id": "excellent-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Excellent_Tataraichi"
+          },
+          {
+            "id": "optimal-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Optimal_Tataraichi"
           }
         ]
       },
@@ -587,8 +1447,20 @@
             "url": "https://lastremnant.fandom.com/wiki/Tataraichi"
           },
           {
-            "id": "ice-tataraichi",
-            "url": "https://lastremnant.fandom.com/wiki/Ice_Tataraichi"
+            "id": "lytic-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Lytic_Tataraichi"
+          },
+          {
+            "id": "excellent-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Excellent_Tataraichi"
+          },
+          {
+            "id": "optimal-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Optimal_Tataraichi"
+          },
+          {
+            "id": "parrying-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Parrying_Tataraichi"
           }
         ]
       },
@@ -606,6 +1478,18 @@
           {
             "id": "ice-tataraichi",
             "url": "https://lastremnant.fandom.com/wiki/Ice_Tataraichi"
+          },
+          {
+            "id": "excellent-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Excellent_Tataraichi"
+          },
+          {
+            "id": "optimal-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Optimal_Tataraichi"
+          },
+          {
+            "id": "aura-tataraichi",
+            "url": "https://lastremnant.fandom.com/wiki/Aura_Tataraichi"
           }
         ]
       }
@@ -666,8 +1550,24 @@
             "url": "https://lastremnant.fandom.com/wiki/Nagapuran"
           },
           {
-            "id": "draconile-halberd",
-            "url": "https://lastremnant.fandom.com/wiki/Draconile_Halberd"
+            "id": "divine-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Divine_Halberd"
+          },
+          {
+            "id": "damascene-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Halberd"
+          },
+          {
+            "id": "malystrix",
+            "url": "https://lastremnant.fandom.com/wiki/Malystrix"
+          },
+          {
+            "id": "malystrix-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Malystrix_Artis"
+          },
+          {
+            "id": "malystrix-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Malystrix_Virtutis"
           }
         ]
       },
@@ -675,12 +1575,32 @@
         "focus": 1,
         "equipments": [
           {
-            "id": "nagapuran",
-            "url": "https://lastremnant.fandom.com/wiki/Nagapuran"
+            "id": "cuchulainn-s-frenzy",
+            "url": "https://lastremnant.fandom.com/wiki/Cuchulainn%27s_Frenzy"
+          },
+          {
+            "id": "warlord-s-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Halberd"
           },
           {
             "id": "draconile-halberd",
             "url": "https://lastremnant.fandom.com/wiki/Draconile_Halberd"
+          },
+          {
+            "id": "damascene-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Halberd"
+          },
+          {
+            "id": "malystrix",
+            "url": "https://lastremnant.fandom.com/wiki/Malystrix"
+          },
+          {
+            "id": "malystrix-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Malystrix_Artis"
+          },
+          {
+            "id": "malystrix-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Malystrix_Virtutis"
           }
         ]
       },
@@ -688,12 +1608,24 @@
         "focus": 2,
         "equipments": [
           {
-            "id": "nagapuran",
-            "url": "https://lastremnant.fandom.com/wiki/Nagapuran"
+            "id": "champion-s-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Halberd"
           },
           {
-            "id": "draconile-halberd",
-            "url": "https://lastremnant.fandom.com/wiki/Draconile_Halberd"
+            "id": "prismic-halberd",
+            "url": "https://lastremnant.fandom.com/wiki/Prismic_Halberd"
+          },
+          {
+            "id": "malystrix",
+            "url": "https://lastremnant.fandom.com/wiki/Malystrix"
+          },
+          {
+            "id": "malystrix-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Malystrix_Artis"
+          },
+          {
+            "id": "malystrix-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Malystrix_Virtutis"
           }
         ]
       }
@@ -758,8 +1690,28 @@
             "url": "https://lastremnant.fandom.com/wiki/Glaive"
           },
           {
-            "id": "poison-glaive",
-            "url": "https://lastremnant.fandom.com/wiki/Poison_Glaive"
+            "id": "caustic-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Caustic_Glaive"
+          },
+          {
+            "id": "superior-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Glaive"
+          },
+          {
+            "id": "superlative-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Glaive"
+          },
+          {
+            "id": "schiavona-talisman",
+            "url": "https://lastremnant.fandom.com/wiki/Schiavona_(Talisman)"
+          },
+          {
+            "id": "schiavona-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Schiavona_Artis"
+          },
+          {
+            "id": "schiavona-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Schiavona_Virtutis"
           }
         ]
       },
@@ -777,6 +1729,30 @@
           {
             "id": "poison-glaive",
             "url": "https://lastremnant.fandom.com/wiki/Poison_Glaive"
+          },
+          {
+            "id": "superior-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Glaive"
+          },
+          {
+            "id": "superlative-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Glaive"
+          },
+          {
+            "id": "shielding-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Glaive"
+          },
+          {
+            "id": "schiavona-talisman",
+            "url": "https://lastremnant.fandom.com/wiki/Schiavona_(Talisman)"
+          },
+          {
+            "id": "schiavona-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Schiavona_Artis"
+          },
+          {
+            "id": "schiavona-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Schiavona_Virtutis"
           }
         ]
       },
@@ -794,6 +1770,30 @@
           {
             "id": "poison-glaive",
             "url": "https://lastremnant.fandom.com/wiki/Poison_Glaive"
+          },
+          {
+            "id": "superior-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Glaive"
+          },
+          {
+            "id": "superlative-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Glaive"
+          },
+          {
+            "id": "enchanted-glaive",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Glaive"
+          },
+          {
+            "id": "schiavona-talisman",
+            "url": "https://lastremnant.fandom.com/wiki/Schiavona_(Talisman)"
+          },
+          {
+            "id": "schiavona-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Schiavona_Artis"
+          },
+          {
+            "id": "schiavona-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Schiavona_Virtutis"
           }
         ]
       }
@@ -808,6 +1808,54 @@
           {
             "id": "spatha-bellatoris",
             "url": "https://lastremnant.fandom.com/wiki/Spatha_Bellatoris"
+          },
+          {
+            "id": "warrior-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Kiteshield"
+          },
+          {
+            "id": "spatha-praetorius",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Praetorius"
+          },
+          {
+            "id": "commander-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Kiteshield"
+          },
+          {
+            "id": "elite-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Kiteshield"
+          },
+          {
+            "id": "spatha-nobilatis",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Nobilatis"
+          },
+          {
+            "id": "champion-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Kiteshield"
+          },
+          {
+            "id": "joyeuse",
+            "url": "https://lastremnant.fandom.com/wiki/Joyeuse"
+          },
+          {
+            "id": "soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Soulshield"
+          },
+          {
+            "id": "frost-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Frost_Soulshield"
+          },
+          {
+            "id": "superior-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Soulshield"
+          },
+          {
+            "id": "superlative-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Soulshield"
+          },
+          {
+            "id": "imperator-s-sword",
+            "url": "https://lastremnant.fandom.com/wiki/Imperator%27s_Sword"
           }
         ]
       },
@@ -817,6 +1865,66 @@
           {
             "id": "spatha-bellatoris",
             "url": "https://lastremnant.fandom.com/wiki/Spatha_Bellatoris"
+          },
+          {
+            "id": "warrior-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Kiteshield"
+          },
+          {
+            "id": "spatha-praetorius",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Praetorius"
+          },
+          {
+            "id": "commander-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Kiteshield"
+          },
+          {
+            "id": "elite-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Kiteshield"
+          },
+          {
+            "id": "spatha-nobilatis",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Nobilatis"
+          },
+          {
+            "id": "champion-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Kiteshield"
+          },
+          {
+            "id": "spatha-heroicus",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Heroicus"
+          },
+          {
+            "id": "soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Soulshield"
+          },
+          {
+            "id": "spatha-imperatoris",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Imperatoris"
+          },
+          {
+            "id": "frost-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Frost_Soulshield"
+          },
+          {
+            "id": "spatha-serpentis",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Serpentis"
+          },
+          {
+            "id": "superior-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Soulshield"
+          },
+          {
+            "id": "superlative-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Soulshield"
+          },
+          {
+            "id": "spatha-adamanteus",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Adamanteus"
+          },
+          {
+            "id": "shielding-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Soulshield"
           }
         ]
       },
@@ -824,8 +1932,68 @@
         "focus": 2,
         "equipments": [
           {
-            "id": "spatha-bellatoris",
-            "url": "https://lastremnant.fandom.com/wiki/Spatha_Bellatoris"
+            "id": "runesword",
+            "url": "https://lastremnant.fandom.com/wiki/Runesword"
+          },
+          {
+            "id": "warrior-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Warrior%27s_Kiteshield"
+          },
+          {
+            "id": "spatha-praetorius",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Praetorius"
+          },
+          {
+            "id": "commander-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Commander%27s_Kiteshield"
+          },
+          {
+            "id": "elite-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Kiteshield"
+          },
+          {
+            "id": "spatha-nobilatis",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Nobilatis"
+          },
+          {
+            "id": "champion-s-kiteshield",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Kiteshield"
+          },
+          {
+            "id": "spatha-heroicus",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Heroicus"
+          },
+          {
+            "id": "soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Soulshield"
+          },
+          {
+            "id": "spatha-imperatoris",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Imperatoris"
+          },
+          {
+            "id": "frost-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Frost_Soulshield"
+          },
+          {
+            "id": "spatha-crystallus",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Crystallus"
+          },
+          {
+            "id": "superior-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Soulshield"
+          },
+          {
+            "id": "superlative-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Soulshield"
+          },
+          {
+            "id": "spatha-adamanteus",
+            "url": "https://lastremnant.fandom.com/wiki/Spatha_Adamanteus"
+          },
+          {
+            "id": "enchanted-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Soulshield"
           }
         ]
       }
@@ -840,6 +2008,18 @@
           {
             "id": "warlord-s-scepter",
             "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Scepter"
+          },
+          {
+            "id": "draconile-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Scepter"
+          },
+          {
+            "id": "damascene-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Scepter"
+          },
+          {
+            "id": "imperator-s-staff",
+            "url": "https://lastremnant.fandom.com/wiki/Imperator%27s_Staff"
           }
         ]
       },
@@ -849,6 +2029,14 @@
           {
             "id": "warlord-s-scepter",
             "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Scepter"
+          },
+          {
+            "id": "draconile-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Scepter"
+          },
+          {
+            "id": "imperator-s-staff",
+            "url": "https://lastremnant.fandom.com/wiki/Imperator%27s_Staff"
           }
         ]
       },
@@ -856,8 +2044,20 @@
         "focus": 2,
         "equipments": [
           {
-            "id": "warlord-s-scepter",
-            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Scepter"
+            "id": "sage-s-staff",
+            "url": "https://lastremnant.fandom.com/wiki/Sage%27s_Staff"
+          },
+          {
+            "id": "prismic-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Prismic_Scepter"
+          },
+          {
+            "id": "damascene-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Scepter"
+          },
+          {
+            "id": "imperator-s-staff",
+            "url": "https://lastremnant.fandom.com/wiki/Imperator%27s_Staff"
           }
         ]
       }
@@ -872,6 +2072,14 @@
           {
             "id": "warlord-s-trident",
             "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Trident"
+          },
+          {
+            "id": "divine-trident",
+            "url": "https://lastremnant.fandom.com/wiki/Divine_Trident"
+          },
+          {
+            "id": "vulcanlance",
+            "url": "https://lastremnant.fandom.com/wiki/Vulcanlance"
           }
         ]
       },
@@ -881,6 +2089,14 @@
           {
             "id": "warlord-s-trident",
             "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Trident"
+          },
+          {
+            "id": "draconile-trident",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Trident"
+          },
+          {
+            "id": "vulcanlance",
+            "url": "https://lastremnant.fandom.com/wiki/Vulcanlance"
           }
         ]
       },
@@ -888,8 +2104,12 @@
         "focus": 2,
         "equipments": [
           {
-            "id": "warlord-s-trident",
-            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Trident"
+            "id": "ouroboros-voulge",
+            "url": "https://lastremnant.fandom.com/wiki/Ouroboros_Voulge"
+          },
+          {
+            "id": "vulcanlance",
+            "url": "https://lastremnant.fandom.com/wiki/Vulcanlance"
           }
         ]
       }
@@ -908,6 +2128,14 @@
           {
             "id": "warlord-s-bludgeon",
             "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Bludgeon"
+          },
+          {
+            "id": "divine-bludgeon",
+            "url": "https://lastremnant.fandom.com/wiki/Divine_Bludgeon"
+          },
+          {
+            "id": "damascene-bludgeon",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Bludgeon"
           }
         ]
       },
@@ -915,12 +2143,8 @@
         "focus": 1,
         "equipments": [
           {
-            "id": "champion-s-bludgeon",
-            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Bludgeon"
-          },
-          {
-            "id": "warlord-s-bludgeon",
-            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Bludgeon"
+            "id": "ogrebrawn",
+            "url": "https://lastremnant.fandom.com/wiki/Ogrebrawn"
           }
         ]
       },
@@ -934,6 +2158,18 @@
           {
             "id": "warlord-s-bludgeon",
             "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Bludgeon"
+          },
+          {
+            "id": "prismic-bludgeon",
+            "url": "https://lastremnant.fandom.com/wiki/Prismic_Bludgeon"
+          },
+          {
+            "id": "damascene-bludgeon",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Bludgeon"
+          },
+          {
+            "id": "imperator-s-hammer",
+            "url": "https://lastremnant.fandom.com/wiki/Imperator%27s_Hammer"
           }
         ]
       }
@@ -950,12 +2186,16 @@
             "url": "https://lastremnant.fandom.com/wiki/Hawkwind"
           },
           {
-            "id": "flame-hawkwind",
-            "url": "https://lastremnant.fandom.com/wiki/Flame_Hawkwind"
+            "id": "poison-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Hawkwind"
           },
           {
             "id": "superior-hawkwind",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Hawkwind"
+          },
+          {
+            "id": "superlative-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Hawkwind"
           }
         ]
       },
@@ -973,6 +2213,14 @@
           {
             "id": "superior-hawkwind",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Hawkwind"
+          },
+          {
+            "id": "superlative-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Hawkwind"
+          },
+          {
+            "id": "shielding-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Hawkwind"
           }
         ]
       },
@@ -984,12 +2232,20 @@
             "url": "https://lastremnant.fandom.com/wiki/Hawkwind"
           },
           {
-            "id": "flame-hawkwind",
-            "url": "https://lastremnant.fandom.com/wiki/Flame_Hawkwind"
+            "id": "frost-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Frost_Hawkwind"
           },
           {
             "id": "superior-hawkwind",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Hawkwind"
+          },
+          {
+            "id": "superlative-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Hawkwind"
+          },
+          {
+            "id": "enchanted-hawkwind",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Hawkwind"
           }
         ]
       }
@@ -1029,6 +2285,10 @@
           {
             "id": "superlative-vare",
             "url": "https://lastremnant.fandom.com/wiki/Superlative_Vare"
+          },
+          {
+            "id": "might-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Might_Vare"
           }
         ]
       },
@@ -1046,6 +2306,10 @@
           {
             "id": "superlative-vare",
             "url": "https://lastremnant.fandom.com/wiki/Superlative_Vare"
+          },
+          {
+            "id": "runic-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Runic_Vare"
           }
         ]
       }
@@ -1060,6 +2324,38 @@
           {
             "id": "ninja-katana",
             "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          },
+          {
+            "id": "ninja-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          },
+          {
+            "id": "shogun-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Shogun_Katana"
+          },
+          {
+            "id": "shogun-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Shogun_Katana"
+          },
+          {
+            "id": "sacred-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Sacred_Katana"
+          },
+          {
+            "id": "mithril-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Mithril_Katana"
+          },
+          {
+            "id": "mithril-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Mithril_Katana"
+          },
+          {
+            "id": "blackbeak",
+            "url": "https://lastremnant.fandom.com/wiki/Blackbeak"
+          },
+          {
+            "id": "blackbeak",
+            "url": "https://lastremnant.fandom.com/wiki/Blackbeak"
           }
         ]
       },
@@ -1069,6 +2365,30 @@
           {
             "id": "ninja-katana",
             "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          },
+          {
+            "id": "ninja-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          },
+          {
+            "id": "shogun-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Shogun_Katana"
+          },
+          {
+            "id": "kotetsu",
+            "url": "https://lastremnant.fandom.com/wiki/Kotetsu"
+          },
+          {
+            "id": "kotetsu",
+            "url": "https://lastremnant.fandom.com/wiki/Kotetsu"
+          },
+          {
+            "id": "blackbeak",
+            "url": "https://lastremnant.fandom.com/wiki/Blackbeak"
+          },
+          {
+            "id": "blackbeak",
+            "url": "https://lastremnant.fandom.com/wiki/Blackbeak"
           }
         ]
       },
@@ -1078,6 +2398,38 @@
           {
             "id": "ninja-katana",
             "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          },
+          {
+            "id": "ninja-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Ninja_Katana"
+          },
+          {
+            "id": "shogun-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Shogun_Katana"
+          },
+          {
+            "id": "shogun-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Shogun_Katana"
+          },
+          {
+            "id": "gem-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Gem_Katana"
+          },
+          {
+            "id": "mithril-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Mithril_Katana"
+          },
+          {
+            "id": "mithril-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Mithril_Katana"
+          },
+          {
+            "id": "blackbeak",
+            "url": "https://lastremnant.fandom.com/wiki/Blackbeak"
+          },
+          {
+            "id": "blackbeak",
+            "url": "https://lastremnant.fandom.com/wiki/Blackbeak"
           }
         ]
       }
@@ -1096,6 +2448,26 @@
           {
             "id": "superior-scythe",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          },
+          {
+            "id": "soulshield-shield",
+            "url": "https://lastremnant.fandom.com/wiki/Soulshield_(Shield)"
+          },
+          {
+            "id": "superlative-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Scythe"
+          },
+          {
+            "id": "frost-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Frost_Soulshield"
+          },
+          {
+            "id": "superior-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Soulshield"
+          },
+          {
+            "id": "superlative-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Soulshield"
           }
         ]
       },
@@ -1109,6 +2481,34 @@
           {
             "id": "superior-scythe",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          },
+          {
+            "id": "soulshield-shield",
+            "url": "https://lastremnant.fandom.com/wiki/Soulshield_(Shield)"
+          },
+          {
+            "id": "superlative-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Scythe"
+          },
+          {
+            "id": "frost-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Frost_Soulshield"
+          },
+          {
+            "id": "might-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Might_Scythe"
+          },
+          {
+            "id": "superior-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Soulshield"
+          },
+          {
+            "id": "superlative-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Soulshield"
+          },
+          {
+            "id": "shielding-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Soulshield"
           }
         ]
       },
@@ -1122,6 +2522,34 @@
           {
             "id": "superior-scythe",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          },
+          {
+            "id": "soulshield-shield",
+            "url": "https://lastremnant.fandom.com/wiki/Soulshield_(Shield)"
+          },
+          {
+            "id": "superlative-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Scythe"
+          },
+          {
+            "id": "frost-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Frost_Soulshield"
+          },
+          {
+            "id": "runic-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Runic_Scythe"
+          },
+          {
+            "id": "superior-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Soulshield"
+          },
+          {
+            "id": "superlative-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Soulshield"
+          },
+          {
+            "id": "enchanted-soulshield",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Soulshield"
           }
         ]
       }
@@ -1144,6 +2572,10 @@
           {
             "id": "superior-demonblade",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Demonblade"
+          },
+          {
+            "id": "superlative-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Demonblade"
           }
         ]
       },
@@ -1161,6 +2593,14 @@
           {
             "id": "superior-demonblade",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Demonblade"
+          },
+          {
+            "id": "superlative-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Demonblade"
+          },
+          {
+            "id": "shielding-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Demonblade"
           }
         ]
       },
@@ -1172,12 +2612,20 @@
             "url": "https://lastremnant.fandom.com/wiki/Demonblade"
           },
           {
-            "id": "flame-demonblade",
-            "url": "https://lastremnant.fandom.com/wiki/Flame_Demonblade"
+            "id": "frost-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Frost_Demonblade"
           },
           {
             "id": "superior-demonblade",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Demonblade"
+          },
+          {
+            "id": "superlative-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Demonblade"
+          },
+          {
+            "id": "enchanted-demonblade",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Demonblade"
           }
         ]
       }
@@ -1200,6 +2648,18 @@
           {
             "id": "morningstar",
             "url": "https://lastremnant.fandom.com/wiki/Morningstar"
+          },
+          {
+            "id": "caustic-morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Caustic_Morningstar"
+          },
+          {
+            "id": "superior-morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Morningstar"
+          },
+          {
+            "id": "superlative-morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Morningstar"
           }
         ]
       },
@@ -1217,6 +2677,22 @@
           {
             "id": "morningstar",
             "url": "https://lastremnant.fandom.com/wiki/Morningstar"
+          },
+          {
+            "id": "flame-morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Morningstar"
+          },
+          {
+            "id": "superior-morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Morningstar"
+          },
+          {
+            "id": "superlative-morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Morningstar"
+          },
+          {
+            "id": "shielding-morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Morningstar"
           }
         ]
       },
@@ -1234,6 +2710,22 @@
           {
             "id": "morningstar",
             "url": "https://lastremnant.fandom.com/wiki/Morningstar"
+          },
+          {
+            "id": "poison-morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Morningstar"
+          },
+          {
+            "id": "superior-morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Morningstar"
+          },
+          {
+            "id": "superlative-morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Morningstar"
+          },
+          {
+            "id": "enchanted-morningstar",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Morningstar"
           }
         ]
       }
@@ -1250,8 +2742,8 @@
             "url": "https://lastremnant.fandom.com/wiki/Vine_Dominus"
           },
           {
-            "id": "paimon",
-            "url": "https://lastremnant.fandom.com/wiki/Paimon"
+            "id": "orobas",
+            "url": "https://lastremnant.fandom.com/wiki/Orobas"
           },
           {
             "id": "orobas-dominus",
@@ -1263,16 +2755,16 @@
         "focus": 1,
         "equipments": [
           {
-            "id": "vine-dominus",
-            "url": "https://lastremnant.fandom.com/wiki/Vine_Dominus"
+            "id": "belial-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Belial_Dominus"
           },
           {
             "id": "paimon",
             "url": "https://lastremnant.fandom.com/wiki/Paimon"
           },
           {
-            "id": "orobas-dominus",
-            "url": "https://lastremnant.fandom.com/wiki/Orobas_Dominus"
+            "id": "paimon-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Paimon_Dominus"
           }
         ]
       },
@@ -1284,8 +2776,8 @@
             "url": "https://lastremnant.fandom.com/wiki/Vine_Dominus"
           },
           {
-            "id": "paimon",
-            "url": "https://lastremnant.fandom.com/wiki/Paimon"
+            "id": "orobas",
+            "url": "https://lastremnant.fandom.com/wiki/Orobas"
           },
           {
             "id": "orobas-dominus",
@@ -1312,6 +2804,10 @@
           {
             "id": "superior-scythe",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          },
+          {
+            "id": "superlative-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Scythe"
           }
         ]
       },
@@ -1329,6 +2825,14 @@
           {
             "id": "superior-scythe",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          },
+          {
+            "id": "superlative-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Scythe"
+          },
+          {
+            "id": "might-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Might_Scythe"
           }
         ]
       },
@@ -1346,6 +2850,14 @@
           {
             "id": "superior-scythe",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Scythe"
+          },
+          {
+            "id": "superlative-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Scythe"
+          },
+          {
+            "id": "runic-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Runic_Scythe"
           }
         ]
       }
@@ -1408,6 +2920,34 @@
           {
             "id": "champion-s-rod",
             "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rod"
+          },
+          {
+            "id": "tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Tambo"
+          },
+          {
+            "id": "fire-tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Fire_Tambo"
+          },
+          {
+            "id": "excellent-tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Excellent_Tambo"
+          },
+          {
+            "id": "optimal-tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Optimal_Tambo"
+          },
+          {
+            "id": "ama-gi",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi"
+          },
+          {
+            "id": "ama-gi-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Artis"
+          },
+          {
+            "id": "ama-gi-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Virtutis"
           }
         ]
       },
@@ -1421,6 +2961,38 @@
           {
             "id": "champion-s-rod",
             "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rod"
+          },
+          {
+            "id": "tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Tambo"
+          },
+          {
+            "id": "fire-tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Fire_Tambo"
+          },
+          {
+            "id": "excellent-tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Excellent_Tambo"
+          },
+          {
+            "id": "optimal-tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Optimal_Tambo"
+          },
+          {
+            "id": "parrying-tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Parrying_Tambo"
+          },
+          {
+            "id": "ama-gi",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi"
+          },
+          {
+            "id": "ama-gi-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Artis"
+          },
+          {
+            "id": "ama-gi-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Virtutis"
           }
         ]
       },
@@ -1434,6 +3006,42 @@
           {
             "id": "champion-s-rod",
             "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rod"
+          },
+          {
+            "id": "leanan-sidhe-s-wiles",
+            "url": "https://lastremnant.fandom.com/wiki/Leanan_Sidhe%27s_Wiles"
+          },
+          {
+            "id": "tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Tambo"
+          },
+          {
+            "id": "fire-tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Fire_Tambo"
+          },
+          {
+            "id": "excellent-tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Excellent_Tambo"
+          },
+          {
+            "id": "optimal-tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Optimal_Tambo"
+          },
+          {
+            "id": "aura-tambo",
+            "url": "https://lastremnant.fandom.com/wiki/Aura_Tambo"
+          },
+          {
+            "id": "ama-gi",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi"
+          },
+          {
+            "id": "ama-gi-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Artis"
+          },
+          {
+            "id": "ama-gi-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Virtutis"
           }
         ]
       }
@@ -1500,6 +3108,18 @@
           {
             "id": "blackjack",
             "url": "https://lastremnant.fandom.com/wiki/Blackjack"
+          },
+          {
+            "id": "flame-blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Blackjack"
+          },
+          {
+            "id": "superior-blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Blackjack"
+          },
+          {
+            "id": "superlative-blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Blackjack"
           }
         ]
       },
@@ -1517,6 +3137,22 @@
           {
             "id": "blackjack",
             "url": "https://lastremnant.fandom.com/wiki/Blackjack"
+          },
+          {
+            "id": "caustic-blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Caustic_Blackjack"
+          },
+          {
+            "id": "superior-blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Blackjack"
+          },
+          {
+            "id": "superlative-blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Blackjack"
+          },
+          {
+            "id": "shielding-blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Blackjack"
           }
         ]
       },
@@ -1534,6 +3170,22 @@
           {
             "id": "blackjack",
             "url": "https://lastremnant.fandom.com/wiki/Blackjack"
+          },
+          {
+            "id": "storm-blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Storm_Blackjack"
+          },
+          {
+            "id": "superior-blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Blackjack"
+          },
+          {
+            "id": "superlative-blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Blackjack"
+          },
+          {
+            "id": "enchanted-blackjack",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Blackjack"
           }
         ]
       }
@@ -1556,6 +3208,38 @@
           {
             "id": "elite-s-rod",
             "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rod"
+          },
+          {
+            "id": "champion-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rod"
+          },
+          {
+            "id": "wand",
+            "url": "https://lastremnant.fandom.com/wiki/Wand"
+          },
+          {
+            "id": "flame-wand",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Wand"
+          },
+          {
+            "id": "superior-wand",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Wand"
+          },
+          {
+            "id": "superlative-wand",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Wand"
+          },
+          {
+            "id": "ama-gi",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi"
+          },
+          {
+            "id": "ama-gi-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Artis"
+          },
+          {
+            "id": "ama-gi-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Virtutis"
           }
         ]
       },
@@ -1573,6 +3257,42 @@
           {
             "id": "elite-s-rod",
             "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rod"
+          },
+          {
+            "id": "champion-s-rod",
+            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Rod"
+          },
+          {
+            "id": "wand",
+            "url": "https://lastremnant.fandom.com/wiki/Wand"
+          },
+          {
+            "id": "flame-wand",
+            "url": "https://lastremnant.fandom.com/wiki/Flame_Wand"
+          },
+          {
+            "id": "superior-wand",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Wand"
+          },
+          {
+            "id": "superlative-wand",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Wand"
+          },
+          {
+            "id": "shielding-wand",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Wand"
+          },
+          {
+            "id": "ama-gi",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi"
+          },
+          {
+            "id": "ama-gi-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Artis"
+          },
+          {
+            "id": "ama-gi-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Virtutis"
           }
         ]
       },
@@ -1590,6 +3310,42 @@
           {
             "id": "elite-s-rod",
             "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Rod"
+          },
+          {
+            "id": "runestaff",
+            "url": "https://lastremnant.fandom.com/wiki/Runestaff"
+          },
+          {
+            "id": "wand",
+            "url": "https://lastremnant.fandom.com/wiki/Wand"
+          },
+          {
+            "id": "frost-wand",
+            "url": "https://lastremnant.fandom.com/wiki/Frost_Wand"
+          },
+          {
+            "id": "superior-wand",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Wand"
+          },
+          {
+            "id": "superlative-wand",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Wand"
+          },
+          {
+            "id": "enchanted-wand",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Wand"
+          },
+          {
+            "id": "ama-gi",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi"
+          },
+          {
+            "id": "ama-gi-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Artis"
+          },
+          {
+            "id": "ama-gi-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Ama-Gi_Virtutis"
           }
         ]
       }
@@ -1604,6 +3360,18 @@
           {
             "id": "phoenix-perch",
             "url": "https://lastremnant.fandom.com/wiki/Phoenix_Perch"
+          },
+          {
+            "id": "warlord-s-greatstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Greatstaff"
+          },
+          {
+            "id": "divine-greatstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Divine_Greatstaff"
+          },
+          {
+            "id": "damascene-greatstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Greatstaff"
           }
         ]
       },
@@ -1611,8 +3379,16 @@
         "focus": 1,
         "equipments": [
           {
-            "id": "phoenix-perch",
-            "url": "https://lastremnant.fandom.com/wiki/Phoenix_Perch"
+            "id": "verge-of-victory",
+            "url": "https://lastremnant.fandom.com/wiki/Verge_of_Victory"
+          },
+          {
+            "id": "warlord-s-greatstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Greatstaff"
+          },
+          {
+            "id": "draconile-greatstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Greatstaff"
           }
         ]
       },
@@ -1620,8 +3396,20 @@
         "focus": 2,
         "equipments": [
           {
-            "id": "phoenix-perch",
-            "url": "https://lastremnant.fandom.com/wiki/Phoenix_Perch"
+            "id": "banshee-s-dirge",
+            "url": "https://lastremnant.fandom.com/wiki/Banshee%27s_Dirge"
+          },
+          {
+            "id": "warlord-s-greatstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Greatstaff"
+          },
+          {
+            "id": "prismic-greatstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Prismic_Greatstaff"
+          },
+          {
+            "id": "soulscepter",
+            "url": "https://lastremnant.fandom.com/wiki/Soulscepter"
           }
         ]
       }
@@ -1644,6 +3432,10 @@
           {
             "id": "elite-s-club",
             "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Club"
+          },
+          {
+            "id": "superlative-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Scythe"
           }
         ]
       },
@@ -1661,6 +3453,14 @@
           {
             "id": "elite-s-club",
             "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Club"
+          },
+          {
+            "id": "superlative-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Scythe"
+          },
+          {
+            "id": "might-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Might_Scythe"
           }
         ]
       },
@@ -1678,6 +3478,14 @@
           {
             "id": "elite-s-club",
             "url": "https://lastremnant.fandom.com/wiki/Elite%27s_Club"
+          },
+          {
+            "id": "superlative-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Scythe"
+          },
+          {
+            "id": "runic-scythe",
+            "url": "https://lastremnant.fandom.com/wiki/Runic_Scythe"
           }
         ]
       }
@@ -1700,6 +3508,30 @@
           {
             "id": "highbrand",
             "url": "https://lastremnant.fandom.com/wiki/Highbrand"
+          },
+          {
+            "id": "poison-highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Highbrand"
+          },
+          {
+            "id": "superior-highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Highbrand"
+          },
+          {
+            "id": "superlative-highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Highbrand"
+          },
+          {
+            "id": "frostblade",
+            "url": "https://lastremnant.fandom.com/wiki/Frostblade"
+          },
+          {
+            "id": "frostblade-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostblade_Artis"
+          },
+          {
+            "id": "frostblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostblade_Virtutis"
           }
         ]
       },
@@ -1717,6 +3549,34 @@
           {
             "id": "highbrand",
             "url": "https://lastremnant.fandom.com/wiki/Highbrand"
+          },
+          {
+            "id": "poison-highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Highbrand"
+          },
+          {
+            "id": "superior-highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Highbrand"
+          },
+          {
+            "id": "superlative-highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Highbrand"
+          },
+          {
+            "id": "shielding-highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Shielding_Highbrand"
+          },
+          {
+            "id": "frostblade",
+            "url": "https://lastremnant.fandom.com/wiki/Frostblade"
+          },
+          {
+            "id": "frostblade-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostblade_Artis"
+          },
+          {
+            "id": "frostblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostblade_Virtutis"
           }
         ]
       },
@@ -1734,6 +3594,34 @@
           {
             "id": "highbrand",
             "url": "https://lastremnant.fandom.com/wiki/Highbrand"
+          },
+          {
+            "id": "poison-highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Poison_Highbrand"
+          },
+          {
+            "id": "superior-highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Superior_Highbrand"
+          },
+          {
+            "id": "superlative-highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Highbrand"
+          },
+          {
+            "id": "enchanted-highbrand",
+            "url": "https://lastremnant.fandom.com/wiki/Enchanted_Highbrand"
+          },
+          {
+            "id": "frostblade",
+            "url": "https://lastremnant.fandom.com/wiki/Frostblade"
+          },
+          {
+            "id": "frostblade-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostblade_Artis"
+          },
+          {
+            "id": "frostblade-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Frostblade_Virtutis"
           }
         ]
       }
@@ -1765,6 +3653,10 @@
           {
             "id": "superlative-quarterstaff",
             "url": "https://lastremnant.fandom.com/wiki/Superlative_Quarterstaff"
+          },
+          {
+            "id": "might-quarterstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Might_Quarterstaff"
           }
         ]
       },
@@ -1778,6 +3670,10 @@
           {
             "id": "superlative-quarterstaff",
             "url": "https://lastremnant.fandom.com/wiki/Superlative_Quarterstaff"
+          },
+          {
+            "id": "runic-quarterstaff",
+            "url": "https://lastremnant.fandom.com/wiki/Runic_Quarterstaff"
           }
         ]
       }
@@ -1800,6 +3696,14 @@
           {
             "id": "daedalus-weapon",
             "url": "https://lastremnant.fandom.com/wiki/Daedalus_(Weapon)"
+          },
+          {
+            "id": "daedalus-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Daedalus_Artis"
+          },
+          {
+            "id": "daedalus-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Daedalus_Virtutis"
           }
         ]
       },
@@ -1807,16 +3711,20 @@
         "focus": 1,
         "equipments": [
           {
-            "id": "divine-striker",
-            "url": "https://lastremnant.fandom.com/wiki/Divine_Striker"
-          },
-          {
-            "id": "damascene-striker",
-            "url": "https://lastremnant.fandom.com/wiki/Damascene_Striker"
+            "id": "draconile-striker",
+            "url": "https://lastremnant.fandom.com/wiki/Draconile_Striker"
           },
           {
             "id": "daedalus-weapon",
             "url": "https://lastremnant.fandom.com/wiki/Daedalus_(Weapon)"
+          },
+          {
+            "id": "daedalus-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Daedalus_Artis"
+          },
+          {
+            "id": "daedalus-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Daedalus_Virtutis"
           }
         ]
       },
@@ -1824,8 +3732,8 @@
         "focus": 2,
         "equipments": [
           {
-            "id": "divine-striker",
-            "url": "https://lastremnant.fandom.com/wiki/Divine_Striker"
+            "id": "prismic-striker",
+            "url": "https://lastremnant.fandom.com/wiki/Prismic_Striker"
           },
           {
             "id": "damascene-striker",
@@ -1834,6 +3742,14 @@
           {
             "id": "daedalus-weapon",
             "url": "https://lastremnant.fandom.com/wiki/Daedalus_(Weapon)"
+          },
+          {
+            "id": "daedalus-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Daedalus_Artis"
+          },
+          {
+            "id": "daedalus-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Daedalus_Virtutis"
           }
         ]
       }
@@ -1894,8 +3810,24 @@
             "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Scepter"
           },
           {
-            "id": "draconile-scepter",
-            "url": "https://lastremnant.fandom.com/wiki/Draconile_Scepter"
+            "id": "divine-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Divine_Scepter"
+          },
+          {
+            "id": "damascene-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Scepter"
+          },
+          {
+            "id": "nightbloom",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom"
+          },
+          {
+            "id": "nightbloom-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Artis"
+          },
+          {
+            "id": "nightbloom-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Virtutis"
           }
         ]
       },
@@ -1909,6 +3841,18 @@
           {
             "id": "draconile-scepter",
             "url": "https://lastremnant.fandom.com/wiki/Draconile_Scepter"
+          },
+          {
+            "id": "nightbloom",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom"
+          },
+          {
+            "id": "nightbloom-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Artis"
+          },
+          {
+            "id": "nightbloom-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Virtutis"
           }
         ]
       },
@@ -1920,8 +3864,24 @@
             "url": "https://lastremnant.fandom.com/wiki/Warlord%27s_Scepter"
           },
           {
-            "id": "draconile-scepter",
-            "url": "https://lastremnant.fandom.com/wiki/Draconile_Scepter"
+            "id": "prismic-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Prismic_Scepter"
+          },
+          {
+            "id": "damascene-scepter",
+            "url": "https://lastremnant.fandom.com/wiki/Damascene_Scepter"
+          },
+          {
+            "id": "nightbloom",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom"
+          },
+          {
+            "id": "nightbloom-artis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Artis"
+          },
+          {
+            "id": "nightbloom-virtutis",
+            "url": "https://lastremnant.fandom.com/wiki/Nightbloom_Virtutis"
           }
         ]
       }
@@ -1936,6 +3896,50 @@
           {
             "id": "leraje-princeps",
             "url": "https://lastremnant.fandom.com/wiki/Leraje_Princeps"
+          },
+          {
+            "id": "leraje-princeps",
+            "url": "https://lastremnant.fandom.com/wiki/Leraje_Princeps"
+          },
+          {
+            "id": "leraje-rex",
+            "url": "https://lastremnant.fandom.com/wiki/Leraje_Rex"
+          },
+          {
+            "id": "leraje-rex",
+            "url": "https://lastremnant.fandom.com/wiki/Leraje_Rex"
+          },
+          {
+            "id": "naberius",
+            "url": "https://lastremnant.fandom.com/wiki/Naberius"
+          },
+          {
+            "id": "naberius",
+            "url": "https://lastremnant.fandom.com/wiki/Naberius"
+          },
+          {
+            "id": "naberius-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Naberius_Dominus"
+          },
+          {
+            "id": "naberius-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Naberius_Dominus"
+          },
+          {
+            "id": "gremory",
+            "url": "https://lastremnant.fandom.com/wiki/Gremory"
+          },
+          {
+            "id": "gremory",
+            "url": "https://lastremnant.fandom.com/wiki/Gremory"
+          },
+          {
+            "id": "gremory-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Gremory_Dominus"
+          },
+          {
+            "id": "gremory-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Gremory_Dominus"
           }
         ]
       },
@@ -1943,8 +3947,52 @@
         "focus": 1,
         "equipments": [
           {
-            "id": "leraje-princeps",
-            "url": "https://lastremnant.fandom.com/wiki/Leraje_Princeps"
+            "id": "cimejes-princeps",
+            "url": "https://lastremnant.fandom.com/wiki/Cimejes_Princeps"
+          },
+          {
+            "id": "cimejes-princeps",
+            "url": "https://lastremnant.fandom.com/wiki/Cimejes_Princeps"
+          },
+          {
+            "id": "cimejes-rex",
+            "url": "https://lastremnant.fandom.com/wiki/Cimejes_Rex"
+          },
+          {
+            "id": "cimejes-rex",
+            "url": "https://lastremnant.fandom.com/wiki/Cimejes_Rex"
+          },
+          {
+            "id": "seere",
+            "url": "https://lastremnant.fandom.com/wiki/Seere"
+          },
+          {
+            "id": "seere",
+            "url": "https://lastremnant.fandom.com/wiki/Seere"
+          },
+          {
+            "id": "seere-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Seere_Dominus"
+          },
+          {
+            "id": "seere-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Seere_Dominus"
+          },
+          {
+            "id": "halphas",
+            "url": "https://lastremnant.fandom.com/wiki/Halphas"
+          },
+          {
+            "id": "halphas",
+            "url": "https://lastremnant.fandom.com/wiki/Halphas"
+          },
+          {
+            "id": "halphas-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Halphas_Dominus"
+          },
+          {
+            "id": "halphas-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Halphas_Dominus"
           }
         ]
       },
@@ -1952,8 +4000,44 @@
         "focus": 2,
         "equipments": [
           {
-            "id": "leraje-princeps",
-            "url": "https://lastremnant.fandom.com/wiki/Leraje_Princeps"
+            "id": "zepar-princeps",
+            "url": "https://lastremnant.fandom.com/wiki/Zepar_Princeps"
+          },
+          {
+            "id": "zepar-princeps",
+            "url": "https://lastremnant.fandom.com/wiki/Zepar_Princeps"
+          },
+          {
+            "id": "focalor",
+            "url": "https://lastremnant.fandom.com/wiki/Focalor"
+          },
+          {
+            "id": "focalor",
+            "url": "https://lastremnant.fandom.com/wiki/Focalor"
+          },
+          {
+            "id": "focalor-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Focalor_Dominus"
+          },
+          {
+            "id": "focalor-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Focalor_Dominus"
+          },
+          {
+            "id": "gremory",
+            "url": "https://lastremnant.fandom.com/wiki/Gremory"
+          },
+          {
+            "id": "gremory",
+            "url": "https://lastremnant.fandom.com/wiki/Gremory"
+          },
+          {
+            "id": "gremory-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Gremory_Dominus"
+          },
+          {
+            "id": "gremory-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Gremory_Dominus"
           }
         ]
       }
@@ -1976,6 +4060,10 @@
           {
             "id": "superior-vare",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Vare"
+          },
+          {
+            "id": "superlative-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Vare"
           }
         ]
       },
@@ -1993,6 +4081,14 @@
           {
             "id": "superior-vare",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Vare"
+          },
+          {
+            "id": "superlative-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Vare"
+          },
+          {
+            "id": "might-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Might_Vare"
           }
         ]
       },
@@ -2010,6 +4106,14 @@
           {
             "id": "superior-vare",
             "url": "https://lastremnant.fandom.com/wiki/Superior_Vare"
+          },
+          {
+            "id": "superlative-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Superlative_Vare"
+          },
+          {
+            "id": "runic-vare",
+            "url": "https://lastremnant.fandom.com/wiki/Runic_Vare"
           }
         ]
       }
@@ -2028,6 +4132,10 @@
           {
             "id": "gaap-dominus",
             "url": "https://lastremnant.fandom.com/wiki/Gaap_Dominus"
+          },
+          {
+            "id": "gaap-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Gaap_Dominus"
           }
         ]
       },
@@ -2041,6 +4149,10 @@
           {
             "id": "gaap-dominus",
             "url": "https://lastremnant.fandom.com/wiki/Gaap_Dominus"
+          },
+          {
+            "id": "gaap-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Gaap_Dominus"
           }
         ]
       },
@@ -2050,6 +4162,10 @@
           {
             "id": "gaap",
             "url": "https://lastremnant.fandom.com/wiki/Gaap"
+          },
+          {
+            "id": "gaap-dominus",
+            "url": "https://lastremnant.fandom.com/wiki/Gaap_Dominus"
           },
           {
             "id": "gaap-dominus",
@@ -2118,8 +4234,16 @@
             "url": "https://lastremnant.fandom.com/wiki/Naginata"
           },
           {
-            "id": "bolt-naginata",
-            "url": "https://lastremnant.fandom.com/wiki/Bolt_Naginata"
+            "id": "fire-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Fire_Naginata"
+          },
+          {
+            "id": "excellent-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Excellent_Naginata"
+          },
+          {
+            "id": "optimal-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Optimal_Naginata"
           }
         ]
       },
@@ -2135,8 +4259,20 @@
             "url": "https://lastremnant.fandom.com/wiki/Naginata"
           },
           {
-            "id": "bolt-naginata",
-            "url": "https://lastremnant.fandom.com/wiki/Bolt_Naginata"
+            "id": "fire-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Fire_Naginata"
+          },
+          {
+            "id": "excellent-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Excellent_Naginata"
+          },
+          {
+            "id": "optimal-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Optimal_Naginata"
+          },
+          {
+            "id": "parrying-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Parrying_Naginata"
           }
         ]
       },
@@ -2144,8 +4280,8 @@
         "focus": 2,
         "equipments": [
           {
-            "id": "champion-s-harpoon",
-            "url": "https://lastremnant.fandom.com/wiki/Champion%27s_Harpoon"
+            "id": "ousterlance",
+            "url": "https://lastremnant.fandom.com/wiki/Ousterlance"
           },
           {
             "id": "naginata",
@@ -2154,6 +4290,18 @@
           {
             "id": "bolt-naginata",
             "url": "https://lastremnant.fandom.com/wiki/Bolt_Naginata"
+          },
+          {
+            "id": "excellent-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Excellent_Naginata"
+          },
+          {
+            "id": "optimal-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Optimal_Naginata"
+          },
+          {
+            "id": "aura-naginata",
+            "url": "https://lastremnant.fandom.com/wiki/Aura_Naginata"
           }
         ]
       }
@@ -2168,6 +4316,22 @@
           {
             "id": "ninja-uchigatana",
             "url": "https://lastremnant.fandom.com/wiki/Ninja_Uchigatana"
+          },
+          {
+            "id": "shogun-uchigatana",
+            "url": "https://lastremnant.fandom.com/wiki/Shogun_Uchigatana"
+          },
+          {
+            "id": "sacred-uchigatana",
+            "url": "https://lastremnant.fandom.com/wiki/Sacred_Uchigatana"
+          },
+          {
+            "id": "mithril-uchigatana",
+            "url": "https://lastremnant.fandom.com/wiki/Mithril_Uchigatana"
+          },
+          {
+            "id": "imperator-s-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Imperator%27s_Katana"
           }
         ]
       },
@@ -2177,6 +4341,22 @@
           {
             "id": "ninja-uchigatana",
             "url": "https://lastremnant.fandom.com/wiki/Ninja_Uchigatana"
+          },
+          {
+            "id": "bonecleaver",
+            "url": "https://lastremnant.fandom.com/wiki/Bonecleaver"
+          },
+          {
+            "id": "wyrm-uchigatana",
+            "url": "https://lastremnant.fandom.com/wiki/Wyrm_Uchigatana"
+          },
+          {
+            "id": "mithril-uchigatana",
+            "url": "https://lastremnant.fandom.com/wiki/Mithril_Uchigatana"
+          },
+          {
+            "id": "muramasa",
+            "url": "https://lastremnant.fandom.com/wiki/Muramasa"
           }
         ]
       },
@@ -2184,8 +4364,24 @@
         "focus": 2,
         "equipments": [
           {
-            "id": "ninja-uchigatana",
-            "url": "https://lastremnant.fandom.com/wiki/Ninja_Uchigatana"
+            "id": "silvermoon",
+            "url": "https://lastremnant.fandom.com/wiki/Silvermoon"
+          },
+          {
+            "id": "shogun-uchigatana",
+            "url": "https://lastremnant.fandom.com/wiki/Shogun_Uchigatana"
+          },
+          {
+            "id": "gem-uchigatana",
+            "url": "https://lastremnant.fandom.com/wiki/Gem_Uchigatana"
+          },
+          {
+            "id": "mithril-uchigatana",
+            "url": "https://lastremnant.fandom.com/wiki/Mithril_Uchigatana"
+          },
+          {
+            "id": "imperator-s-katana",
+            "url": "https://lastremnant.fandom.com/wiki/Imperator%27s_Katana"
           }
         ]
       }
